@@ -1,21 +1,269 @@
-# 💫 About Me:
-I’m a passionate developer who enjoys building real-world, impactful projects across multiple domains including Full Stack Development, AI/ML, Cloud Computing, and IoT. I believe in learning by creating, and I continuously challenge myself by working on projects that solve practical problems.<br><br>I have experience developing end-to-end applications and have worked on several innovative projects, including IoT-based systems and scalable web applications. Currently, I’m focused on building an AI-powered interview agent capable of conducting domain-specific technical interviews on behalf of companies.<br><br>I’m always exploring new technologies, improving my problem-solving skills, and pushing toward creating intelligent, production-ready systems.
+<h1 align="center">Hi 👋, I'm Hariom Acharya</h1>
+<h3 align="center">FULL-STACK • CLOUD • AI/ML • DEVOPS</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hariom.acharya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hariom Acharya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hariomacharya2@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HariomAcharya17&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HariomAcharya17&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HariomAcharya17&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Cloud+Engineering+Enthusiast;Building+Scalable+Web+Applications;System+Design+Learner" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=HariomAcharya17&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🚀 Software Engineer focused on AI/ML, Cloud Computing & Scalable Systems
+
+</div>
+
+I am a passionate developer focused on building scalable web applications, intelligent AI-powered systems, and modern cloud-based software solutions. My interests lie in Full-Stack Development, Artificial Intelligence, System Design, Cloud Engineering, and DevOps practices.
+
+I enjoy integrating AI into real-world applications that solve meaningful problems through automation, intelligent prediction systems, and scalable architectures. I continuously explore modern technologies and development workflows while improving my understanding of distributed systems, backend engineering, and production-ready software development.
+
+Currently, I am focused on:
+- Building scalable full-stack applications
+- Integrating AI for real-world problem solving
+- Learning cloud infrastructure and DevOps workflows
+- Exploring system design and backend scalability
+- Developing intelligent AI-powered platforms
+
+---
+
+# 🏅 My Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 The AI Engineer Course Bootcamp
+**Issued by Udemy**
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 Probability & Statistics
+**Issued by Udemy**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects & Experience
+
+<table>
+<tr>
+<th width="25%">Project Title</th>
+<th width="75%">Key Achievement & Technologies</th>
+</tr>
+
+<tr>
+<td>
+
+## IOT Based ML Machine Failure Detection
+
+</td>
+
+<td>
+
+⚡ Developed an intelligent IoT + Machine Learning system that predicts machine health and Remaining Useful Life (RUL) using sensor data such as temperature, vibration, and rotational speed.
+
+🏆 Selected as one of the featured case studies in the 6th Semester IoT Subject.
+
+### Technologies Used:
+`ESP32` `Arduino IDE` `Python` `React` `Node.js` `Flask` `Scikit-learn` `Google Colab` `Kaggle` `Matplotlib`
+
+🔗 [GitHub Repository](https://github.com/HariomAcharya17/Techno-Expand)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## Mira AI Assistant
+
+</td>
+
+<td>
+
+🤖 Built an AI-powered personalized assistant capable of answering questions using multiple integrated APIs and intelligent response handling.
+
+⚡ Designed with a modern responsive UI and scalable architecture for seamless AI interaction.
+
+### Technologies Used:
+`React` `Node.js` `TypeScript` `Tailwind CSS` `AI APIs`
+
+🔗 [GitHub Repository](https://github.com/HariomAcharya17/MIRA)
+
+🌐 [Live Demo](https://mira-aichatbot.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## PhisGuard
+
+</td>
+
+<td>
+
+🛡️ Developed a phishing URL detection platform capable of detecting malicious websites using a multi-layer security approach.
+
+### Detection Layers:
+- VirusTotal Blacklist
+- Pattern Analysis
+- Domain Intelligence
+- Machine Learning Model (Random Forest)
+
+### Technologies Used:
+`Next.js` `Python` `FastAPI` `Scikit-learn` `Google Colab` `Kaggle`
+
+🔗 [GitHub Repository](https://github.com/HariomAcharya17/phishguard-api)
+
+🌐 [Live Demo](https://your-phish-guard.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## Vox-Hire
+
+</td>
+
+<td>
+
+🎯 Developing an AI-powered recruitment platform where an intelligent interviewer conducts technical interviews for users preparing for their dream companies.
+
+⚡ Focused on real-time interview simulation, AI-driven responses, and scalable architecture.
+
+### Technologies Used:
+`React` `Node.js` `FastAPI` `Tailwind CSS` `AI APIs`
+
+🚧 Currently In Development
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## Software Engineering Internship
+
+### Neptune Technolab
+
+</td>
+
+<td>
+
+💼 Worked as a Software Intern and contributed to building an AI-integrated advertisement automation platform.
+
+⚡ Developed features for:
+- Automated post scheduling
+- AI-generated image creation
+- Smart caption generation
+- Scalable frontend-backend integration
+
+### Technologies Used:
+`React` `Node.js` `Tailwind CSS` `FastAPI` `Gemini AI`
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 📚 Languages & Tools
+
+<details>
+<summary>Click to Expand</summary>
+
+<br>
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,javascript,typescript" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgresql,aws" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
+</p>
+
+</details>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HariomAcharya17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomAcharya17&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hariom-a-218649318/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://github.com/HariomAcharya17" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="mailto:hariomacharya2@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+</p>
+
+<p align="center">
+
+🌐 Portfolio: <a href="https://hariom.acharya.vercel.app">hariom.acharya.vercel.app</a>
+
+</p>
+
+---
+
+# ⚡ Developer Philosophy
+
+> “Technology becomes powerful when intelligence, scalability, and creativity are combined to solve real-world problems.”
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HariomAcharya17&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
