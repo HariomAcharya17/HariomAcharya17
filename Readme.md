@@ -151,32 +151,6 @@ Currently, I am focused on:
 <tr>
 <td>
 
-## Software Engineering Internship
-
-### Neptune Technolab
-
-</td>
-
-<td>
-
-💼 Worked as a Software Intern and contributed to building an AI-integrated advertisement automation platform.
-
-⚡ Developed features for:
-- Automated post scheduling
-- AI-generated image creation
-- Smart caption generation
-- Scalable frontend-backend integration
-
-### Technologies Used:
-`React` `Node.js` `Tailwind CSS` `FastAPI` `Gemini AI`
-
-</td>
-</tr>
-
-</table>
-
----
-
 # 📚 Languages & Tools
 
 <details>
