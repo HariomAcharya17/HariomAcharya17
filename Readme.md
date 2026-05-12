@@ -17,7 +17,7 @@ I am a passionate developer focused on building scalable web applications, intel
 
 I enjoy integrating AI into real-world applications that solve meaningful problems through automation, intelligent prediction systems, and scalable architectures. I continuously explore modern technologies and development workflows while improving my understanding of distributed systems, backend engineering, and production-ready software development.
 
-Currently, I am focused on:
+**Currently, I am focused on:**
 - Building scalable full-stack applications
 - Integrating AI for real-world problem solving
 - Learning cloud infrastructure and DevOps workflows
@@ -36,7 +36,6 @@ Currently, I am focused on:
 **Issued by Udemy**
 
 </td>
-
 <td align="center" width="50%">
 
 ### 📊 Probability & Statistics
@@ -62,7 +61,6 @@ Currently, I am focused on:
 ## IOT Based ML Machine Failure Detection
 
 </td>
-
 <td>
 
 ⚡ Developed an intelligent IoT + Machine Learning system that predicts machine health and Remaining Useful Life (RUL) using sensor data such as temperature, vibration, and rotational speed.
@@ -83,7 +81,6 @@ Currently, I am focused on:
 ## Mira AI Assistant
 
 </td>
-
 <td>
 
 🤖 Built an AI-powered personalized assistant capable of answering questions using multiple integrated APIs and intelligent response handling.
@@ -106,7 +103,6 @@ Currently, I am focused on:
 ## PhisGuard
 
 </td>
-
 <td>
 
 🛡️ Developed a phishing URL detection platform capable of detecting malicious websites using a multi-layer security approach.
@@ -133,7 +129,6 @@ Currently, I am focused on:
 ## Vox-Hire
 
 </td>
-
 <td>
 
 🎯 Developing an AI-powered recruitment platform where an intelligent interviewer conducts technical interviews for users preparing for their dream companies.
@@ -148,8 +143,9 @@ Currently, I am focused on:
 </td>
 </tr>
 
-<tr>
-<td>
+</table>
+
+---
 
 # 📚 Languages & Tools
 
@@ -196,7 +192,6 @@ Currently, I am focused on:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HariomAcharya17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -209,32 +204,28 @@ Currently, I am focused on:
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/hariom-a-218649318/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-
+&nbsp;
 <a href="https://github.com/HariomAcharya17" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
-
+&nbsp;
 <a href="mailto:hariomacharya2@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
-
 </p>
 
 <p align="center">
-
 🌐 Portfolio: <a href="https://hariom.acharya.vercel.app">hariom.acharya.vercel.app</a>
-
 </p>
 
 ---
 
 # ⚡ Developer Philosophy
 
-> “Technology becomes powerful when intelligence, scalability, and creativity are combined to solve real-world problems.”
+> "Technology becomes powerful when intelligence, scalability, and creativity are combined to solve real-world problems."
 
 ---
 
