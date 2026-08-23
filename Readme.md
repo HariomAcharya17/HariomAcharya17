@@ -13,16 +13,41 @@
 
 </div>
 
-I am a passionate developer focused on building scalable web applications, intelligent AI-powered systems, and modern cloud-based software solutions. My interests lie in Full-Stack Development, Artificial Intelligence, System Design, Cloud Engineering, and DevOps practices.
+I am a passionate full-stack developer with a strong interest in building scalable web applications, intelligent AI-powered systems, and modern cloud-based software solutions. My work spans the entire development lifecycle — from designing responsive, user-friendly frontends to architecting robust backends and deploying production-ready systems on the cloud. I enjoy working across the stack because it lets me understand a product end-to-end, from how a user interacts with an interface to how data flows and is processed behind the scenes.
 
-I enjoy integrating AI into real-world applications that solve meaningful problems through automation, intelligent prediction systems, and scalable architectures. I continuously explore modern technologies and development workflows while improving my understanding of distributed systems, backend engineering, and production-ready software development.
+My core interests lie in **Full-Stack Development, Artificial Intelligence, System Design, Cloud Engineering, and DevOps practices**. I'm especially drawn to projects where AI can be integrated meaningfully into real-world applications — not just as a feature, but as a way to genuinely solve problems through automation, intelligent prediction, and data-driven decision-making. Alongside this, I actively study distributed systems, backend scalability, and infrastructure design, since I believe a good developer needs to understand not just how to build something, but how to make it reliable and scalable as it grows.
+
+Beyond pure software development, I've also built a working understanding of **networking fundamentals** — including DNS resolution, network security practices, routing, and switching — which has given me a broader, more holistic view of how applications actually communicate and stay secure across real infrastructure, not just in theory.
 
 **Currently, I am focused on:**
-- Building scalable full-stack applications
-- Integrating AI for real-world problem solving
-- Learning cloud infrastructure and DevOps workflows
-- Exploring system design and backend scalability
-- Developing intelligent AI-powered platforms
+- 🏗️ Building scalable full-stack applications with clean, maintainable architecture
+- 🤖 Integrating AI into real-world products to solve meaningful, practical problems
+- ☁️ Learning cloud infrastructure (AWS) and DevOps workflows for reliable deployments
+- 🧩 Exploring system design principles and backend scalability patterns
+- 🔐 Deepening my understanding of networking and security fundamentals
+- 📈 Developing intelligent, AI-powered platforms from concept to deployment
+
+---
+
+# 💼 Experience
+
+### 🏢 Software Development Intern — NST Pvt. Ltd.
+
+During my internship at **NST Pvt. Ltd.**, I worked as part of a real product-development team, contributing to the design and development of **EaseExpense**, a full-stack daily expense-tracking application built to help users understand and control their personal spending.
+
+**What I worked on:**
+- Designed and built core features of EaseExpense end-to-end, from the user interface down to the backend logic that powers budget tracking and email notifications.
+- Implemented an **automated email alert system** that notifies users the moment their spending crosses their set monthly budget, helping them course-correct in real time rather than finding out at month's end.
+- Built a **monthly summary mailer** that compiles a user's overall expenses for the month into a clean receipt-style email, giving them an easy-to-digest overview of their spending habits.
+- Collaborated with the internal team on debugging, feature refinement, and testing in a live, production-style environment — a very different experience from working solo on personal projects.
+
+**What I learned beyond development:**
+Alongside application development, I was introduced to core **networking concepts** that are often overlooked by developers who only work at the application layer. This included:
+- **DNS** — how domain names resolve to IP addresses and how this affects application accessibility and performance.
+- **Network security** — fundamentals of keeping internal systems and data safe from common threats.
+- **Routers and switches** — how traffic is directed and managed within a network, and why this matters for application reliability.
+
+This internship gave me a much more complete picture of how software actually operates in the real world — not just as code running on a single machine, but as a system that depends on networks, infrastructure, and security to function correctly for real users.
 
 ---
 
@@ -35,11 +60,15 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 ### 🤖 The AI Engineer Course Bootcamp
 **Issued by Udemy**
 
+A comprehensive, hands-on course covering the fundamentals and practical application of AI engineering — including working with AI APIs, building intelligent applications, and understanding how modern AI systems are designed and deployed.
+
 </td>
 <td align="center" width="50%">
 
 ### 📊 Probability & Statistics
 **Issued by Udemy**
+
+A foundational course covering the mathematical concepts underpinning data science and machine learning, including probability theory, statistical inference, and distributions — core knowledge for building and evaluating ML models.
 
 </td>
 </tr>
@@ -58,14 +87,40 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 <tr>
 <td>
 
-## IOT Based ML Machine Failure Detection
+## 💰 EaseExpense
 
 </td>
 <td>
 
-⚡ Developed an intelligent IoT + Machine Learning system that predicts machine health and Remaining Useful Life (RUL) using sensor data such as temperature, vibration, and rotational speed.
+💰 A full-stack daily expense-tracking application built during my internship at **NST Pvt. Ltd.**, designed to make personal finance management simple, transparent, and proactive rather than reactive.
 
-🏆 Selected as one of the featured case studies in the 6th Semester IoT Subject.
+📧 Includes an **automated email alert system** that notifies the user in real time whenever their spending exceeds their set monthly budget — helping them adjust their habits before overspending becomes a problem.
+
+🧾 Automatically generates and emails a **monthly expense summary/receipt**, giving users a clear, consolidated view of everything they spent across the month in one place.
+
+🎯 Focused on a clean, intuitive user experience so that day-to-day expense logging feels effortless rather than like a chore.
+
+### Technologies Used:
+`Node.js` `React` `Supabase`
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## ⚡ IOT Based ML Machine Failure Detection
+
+</td>
+<td>
+
+⚡ Developed an intelligent IoT + Machine Learning system that predicts machine health and estimates Remaining Useful Life (RUL) using real-time sensor data such as temperature, vibration, and rotational speed — enabling predictive maintenance instead of reactive repairs.
+
+🔧 Combined embedded hardware (ESP32-based sensor collection) with a trained ML model to detect early warning signs of mechanical failure before they escalate into costly breakdowns.
+
+📊 Involved end-to-end data handling — from raw sensor data collection and cleaning, through model training and evaluation, to visualizing predictions in an accessible way.
+
+🏆 Selected as one of the featured case studies in the 6th Semester IoT Subject, recognized for its practical, real-world applicability.
 
 ### Technologies Used:
 `ESP32` `Arduino IDE` `Python` `React` `Node.js` `Flask` `Scikit-learn` `Google Colab` `Kaggle` `Matplotlib`
@@ -78,14 +133,16 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 <tr>
 <td>
 
-## Mira AI Assistant
+## 🤖 Mira AI Assistant
 
 </td>
 <td>
 
-🤖 Built an AI-powered personalized assistant capable of answering questions using multiple integrated APIs and intelligent response handling.
+🤖 Built an AI-powered personalized assistant capable of answering a wide range of questions by intelligently routing requests through multiple integrated APIs and handling responses in a natural, conversational way.
 
-⚡ Designed with a modern responsive UI and scalable architecture for seamless AI interaction.
+⚡ Designed with a modern, responsive user interface and a scalable backend architecture, ensuring the assistant remains fast and reliable even as usage grows.
+
+💬 Focused on making the interaction feel seamless — minimizing latency and making AI responses feel natural rather than robotic or delayed.
 
 ### Technologies Used:
 `React` `Node.js` `TypeScript` `Tailwind CSS` `AI APIs`
@@ -100,18 +157,20 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 <tr>
 <td>
 
-## PhisGuard
+## 🛡️ PhisGuard
 
 </td>
 <td>
 
-🛡️ Developed a phishing URL detection platform capable of detecting malicious websites using a multi-layer security approach.
+🛡️ Developed a phishing URL detection platform capable of identifying malicious websites using a **multi-layer security approach**, combining threat intelligence, heuristic analysis, and machine learning for higher detection accuracy than any single method alone.
 
 ### Detection Layers:
-- VirusTotal Blacklist
-- Pattern Analysis
-- Domain Intelligence
-- Machine Learning Model (Random Forest)
+- **VirusTotal Blacklist** — cross-references URLs against a large, continuously updated threat database.
+- **Pattern Analysis** — flags suspicious structural patterns commonly seen in phishing URLs.
+- **Domain Intelligence** — evaluates domain age, reputation, and registration signals.
+- **Machine Learning Model (Random Forest)** — trained to classify URLs based on a combination of extracted features, catching threats that rule-based systems might miss.
+
+🧠 The layered design means the system doesn't rely on any single point of failure — if one layer misses a threat, another is likely to catch it.
 
 ### Technologies Used:
 `Next.js` `Python` `FastAPI` `Scikit-learn` `Google Colab` `Kaggle`
@@ -126,14 +185,16 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 <tr>
 <td>
 
-## Vox-Hire
+## 🎯 Vox-Hire
 
 </td>
 <td>
 
-🎯 Developing an AI-powered recruitment platform where an intelligent interviewer conducts technical interviews for users preparing for their dream companies.
+🎯 Currently developing an AI-powered recruitment platform where an intelligent interviewer conducts realistic technical interviews, helping candidates prepare for interviews at their dream companies through practical, adaptive practice.
 
-⚡ Focused on real-time interview simulation, AI-driven responses, and scalable architecture.
+⚡ Focused on **real-time interview simulation**, where the AI dynamically adapts its questions and follow-ups based on the candidate's responses, rather than relying on a fixed script.
+
+🏗️ Being built with a scalable architecture from the ground up, anticipating future features like performance analytics, personalized feedback, and interview history tracking.
 
 ### Technologies Used:
 `React` `Node.js` `FastAPI` `Tailwind CSS` `AI APIs`
@@ -154,9 +215,11 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 
 <br>
 
+A breakdown of the languages, frameworks, and platforms I regularly work with, grouped by the area of development they belong to:
+
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,javascript,typescript" />
 </p>
 
 ### 🌐 Frontend Development
@@ -166,7 +229,7 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 
 ### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
 ### 🤖 AI / ML
@@ -178,6 +241,13 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 <p>
 <img src="https://skillicons.dev/icons?i=supabase,postgresql,aws" />
 </p>
+
+### 🌐 Networking
+<p>
+<img src="https://skillicons.dev/icons?i=nginx" />
+</p>
+
+Fundamentals gained through hands-on internship exposure: **DNS resolution**, **network security practices**, **routing**, and **switching**.
 
 ### 🛠️ Tools & Platforms
 <p>
@@ -201,7 +271,23 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 
 ---
 
+# 🧊 3D Contribution Graph
+
+A 3D isometric view of my GitHub contribution activity, auto-generated daily from my real commit history via a scheduled GitHub Action. It automatically switches between a light and dark version depending on your GitHub color theme.
+
+<p align="center">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output-3d-contrib/day.svg" />
+	  <img alt="GitHub profile 3D contribution chart" src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
+---
+
 # 🌐 Connect With Me
+
+I'm always open to connecting with fellow developers, collaborating on interesting projects, or discussing opportunities in full-stack development, AI/ML, and cloud engineering. Feel free to reach out through any of the platforms below:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hariom-a-218649318/" target="_blank">
@@ -226,6 +312,8 @@ I enjoy integrating AI into real-world applications that solve meaningful proble
 # ⚡ Developer Philosophy
 
 > "Technology becomes powerful when intelligence, scalability, and creativity are combined to solve real-world problems."
+
+I believe the best software isn't just functional — it's thoughtfully designed, built to scale, and genuinely useful to the people who rely on it. That philosophy guides how I approach every project, from a small personal tool to a full-scale platform.
 
 ---
 
