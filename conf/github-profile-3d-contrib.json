@@ -1,6 +1,7 @@
 [
     {
         "type": "normal",
+        "mode": "radar_contrib_only",
         "fileName": "day.svg",
         "backgroundColor": "#f8fafc",
         "foregroundColor": "#0f172a",
@@ -18,6 +19,7 @@
     },
     {
         "type": "rainbow",
+        "mode": "radar_contrib_only",
         "fileName": "night.svg",
         "backgroundColor": "#020617",
         "foregroundColor": "#f1f5f9",
@@ -26,13 +28,7 @@
         "radarColor": "rgb(0,229,255)",
         "growingAnimation": true,
         "saturation": "75%",
-        "contribLightness": [
-            "25%",
-            "35%",
-            "45%",
-            "55%",
-            "65%"
-        ],
+        "contribLightness": ["25%", "35%", "45%", "55%", "65%"],
         "duration": "8s",
         "hueRatio": -10
     }
