@@ -210,11 +210,6 @@ A foundational course covering the mathematical concepts underpinning data scien
 
 # 📚 Languages & Tools
 
-<details>
-<summary>Click to Expand</summary>
-
-<br>
-
 A breakdown of the languages, frameworks, and platforms I regularly work with, grouped by the area of development they belong to:
 
 ### 💻 Programming Languages
@@ -253,8 +248,6 @@ Fundamentals gained through hands-on internship exposure: **DNS resolution**, **
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
 </p>
-
-</details>
 
 ---
 
@@ -309,11 +302,8 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 ---
 
-# ⚡ Developer Philosophy
-
-> "Technology becomes powerful when intelligence, scalability, and creativity are combined to solve real-world problems."
-
-I believe the best software isn't just functional — it's thoughtfully designed, built to scale, and genuinely useful to the people who rely on it. That philosophy guides how I approach every project, from a small personal tool to a full-scale platform.
+> "Hard work always beats talent."
+> — Hariom Acharya
 
 ---
 
