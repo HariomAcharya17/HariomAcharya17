@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hariom Acharya</h1>
+\<h1 align="center">Hi 👋, I'm Hariom Acharya</h1>
 <h3 align="center">FULL-STACK • CLOUD • AI/ML • DEVOPS</h3>
 
 <p align="center">
@@ -274,14 +274,6 @@ A live snapshot of each repository and the primary language it's built with, pul
 </p>
 <p align="center">
 <a href="https://github.com/HariomAcharya17/Techno-Expand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariomAcharya17&repo=Techno-Expand&theme=tokyonight&hide_border=true" /></a>
-</p>
-
----
-
-# ⚡ Dev Mode
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/assets/dev-graphic.svg" alt="animated developer graphic" width="100%" />
 </p>
 
 ---
