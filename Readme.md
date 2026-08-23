@@ -278,16 +278,10 @@ A live snapshot of each repository and the primary language it's built with, pul
 
 ---
 
-# 🧊 3D Contribution Graph
-
-A 3D isometric view of my GitHub contribution activity, auto-generated daily from my real commit history via a scheduled GitHub Action. It automatically switches between a light and dark version depending on your GitHub color theme.
+# ⚡ Dev Mode
 
 <p align="center">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output-3d-contrib/day.svg" />
-	  <img alt="GitHub profile 3D contribution chart" src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output-3d-contrib/day.svg" />
-	</picture>
+<img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/assets/dev-graphic.svg" alt="animated developer graphic" width="100%" />
 </p>
 
 ---
