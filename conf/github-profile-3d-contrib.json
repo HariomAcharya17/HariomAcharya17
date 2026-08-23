@@ -1,21 +1,24 @@
 [
     {
-        "type": "normal",
+        "type": "rainbow",
         "mode": "radar_contrib_only",
         "fileName": "day.svg",
-        "backgroundColor": "#f8fafc",
+        "backgroundColor": "#ffffff",
         "foregroundColor": "#0f172a",
-        "strongColor": "#4c1d95",
-        "weakColor": "#cbd5e1",
-        "radarColor": "#7c3aed",
+        "strongColor": "rgb(124,58,237)",
+        "weakColor": "#94a3b8",
+        "radarColor": "rgb(124,58,237)",
         "growingAnimation": true,
-        "contribColors": [
-            "#e0e7ff",
-            "#a5b4fc",
-            "#818cf8",
-            "#6366f1",
-            "#4338ca"
-        ]
+        "saturation": "85%",
+        "contribLightness": [
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%"
+        ],
+        "duration": "20s",
+        "hueRatio": -18
     },
     {
         "type": "rainbow",
@@ -27,9 +30,15 @@
         "weakColor": "#475569",
         "radarColor": "rgb(0,229,255)",
         "growingAnimation": true,
-        "saturation": "75%",
-        "contribLightness": ["25%", "35%", "45%", "55%", "65%"],
-        "duration": "8s",
-        "hueRatio": -10
+        "saturation": "90%",
+        "contribLightness": [
+            "25%",
+            "35%",
+            "45%",
+            "55%",
+            "65%"
+        ],
+        "duration": "20s",
+        "hueRatio": -18
     }
 ]
