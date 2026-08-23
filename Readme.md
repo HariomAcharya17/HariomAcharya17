@@ -264,6 +264,20 @@ Fundamentals gained through hands-on internship exposure: **DNS resolution**, **
 
 ---
 
+# 📦 Repository Tech Stack
+
+A live snapshot of each repository and the primary language it's built with, pulled directly from GitHub — this updates on its own as repos change, no manual editing needed.
+
+<p align="center">
+<a href="https://github.com/HariomAcharya17/MIRA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariomAcharya17&repo=MIRA&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/HariomAcharya17/phishguard-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariomAcharya17&repo=phishguard-api&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/HariomAcharya17/Techno-Expand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariomAcharya17&repo=Techno-Expand&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+---
+
 # 🧊 3D Contribution Graph
 
 A 3D isometric view of my GitHub contribution activity, auto-generated daily from my real commit history via a scheduled GitHub Action. It automatically switches between a light and dark version depending on your GitHub color theme.
