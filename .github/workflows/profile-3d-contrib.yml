@@ -1,34 +1,42 @@
-name: generate 3d chart for profile contributions
-
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */24 * * *"
-
-  # allows to manually run the job at any time
-  workflow_dispatch:
-
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: conf/github-profile-3d-contrib.json
-
-      - name: push SVGs to the output-3d branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output-3d-contrib
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+[
+    {
+        "type": "rainbow",
+        "fileName": "day.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#0f172a",
+        "strongColor": "rgb(124,58,237)",
+        "weakColor": "#94a3b8",
+        "radarColor": "rgb(124,58,237)",
+        "growingAnimation": true,
+        "saturation": "85%",
+        "contribLightness": [
+            "30%",
+            "40%",
+            "50%",
+            "60%",
+            "70%"
+        ],
+        "duration": "20s",
+        "hueRatio": -18
+    },
+    {
+        "type": "rainbow",
+        "fileName": "night.svg",
+        "backgroundColor": "#020617",
+        "foregroundColor": "#f1f5f9",
+        "strongColor": "rgb(0,229,255)",
+        "weakColor": "#475569",
+        "radarColor": "rgb(0,229,255)",
+        "growingAnimation": true,
+        "saturation": "90%",
+        "contribLightness": [
+            "25%",
+            "35%",
+            "45%",
+            "55%",
+            "65%"
+        ],
+        "duration": "20s",
+        "hueRatio": -18
+    }
+]
