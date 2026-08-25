@@ -1,23 +1,30 @@
-\<h1 align="center">Hi 👋, I'm Hariom Acharya</h1>
-<h3 align="center">FULL-STACK • CLOUD • AI/ML • DEVOPS</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=56&duration=3000&pause=100000&color=D97757&center=true&vCenter=true&width=700&height=90&lines=Hariom+Acharya&repeat=false" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Cloud+Engineering+Enthusiast;Building+Scalable+Web+Applications;System+Design+Learner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=20&duration=2500&pause=100000&color=6B7280&center=true&vCenter=true&width=650&lines=Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps&repeat=false" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F6F6F&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Cloud+Engineering+Enthusiast;Building+Scalable+Web+Applications;System+Design+Learner" />
 </p>
 
 ---
 
-<div align="center">
-
-## 🚀 Software Engineer focused on AI/ML, Cloud Computing & Scalable Systems
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=28&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=750&lines=Software+Engineer+%E2%80%94+AI%2FML%2C+Cloud+%26+Scalable+Systems&repeat=false" />
+</p>
 
 I am a passionate full-stack developer with a strong interest in building scalable web applications, intelligent AI-powered systems, and modern cloud-based software solutions. My work spans the entire development lifecycle — from designing responsive, user-friendly frontends to architecting robust backends and deploying production-ready systems on the cloud. I enjoy working across the stack because it lets me understand a product end-to-end, from how a user interacts with an interface to how data flows and is processed behind the scenes.
 
 My core interests lie in **Full-Stack Development, Artificial Intelligence, System Design, Cloud Engineering, and DevOps practices**. I'm especially drawn to projects where AI can be integrated meaningfully into real-world applications — not just as a feature, but as a way to genuinely solve problems through automation, intelligent prediction, and data-driven decision-making. Alongside this, I actively study distributed systems, backend scalability, and infrastructure design, since I believe a good developer needs to understand not just how to build something, but how to make it reliable and scalable as it grows.
 
 Beyond pure software development, I've also built a working understanding of **networking fundamentals** — including DNS resolution, network security practices, routing, and switching — which has given me a broader, more holistic view of how applications actually communicate and stay secure across real infrastructure, not just in theory.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW2xHVGvsSjm/giphy.gif" width="280" alt="playing guitar" />
+</p>
 
 **Currently, I am focused on:**
 - 🏗️ Building scalable full-stack applications with clean, maintainable architecture
@@ -29,7 +36,9 @@ Beyond pure software development, I've also built a working understanding of **n
 
 ---
 
-# 💼 Experience
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=💼+Experience&repeat=false" />
+</p>
 
 ### 🏢 Software Development Intern — NST Pvt. Ltd.
 
@@ -51,7 +60,9 @@ This internship gave me a much more complete picture of how software actually op
 
 ---
 
-# 🏅 My Certifications
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=🏅+Certifications&repeat=false" />
+</p>
 
 <table>
 <tr>
@@ -76,7 +87,9 @@ A foundational course covering the mathematical concepts underpinning data scien
 
 ---
 
-# 🚀 Featured Projects & Experience
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=500&lines=🚀+Featured+Projects&repeat=false" />
+</p>
 
 <table>
 <tr>
@@ -87,12 +100,12 @@ A foundational course covering the mathematical concepts underpinning data scien
 <tr>
 <td>
 
-## 💰 EaseExpense
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=2F6F6F&center=true&vCenter=true&width=260&lines=💰+EaseExpense&repeat=false" />
 
 </td>
 <td>
 
-💰 A full-stack daily expense-tracking application built during my internship at **NST Pvt. Ltd.**, designed to make personal finance management simple, transparent, and proactive rather than reactive.
+A full-stack daily expense-tracking application built during my internship at **NST Pvt. Ltd.**, designed to make personal finance management simple, transparent, and proactive rather than reactive.
 
 📧 Includes an **automated email alert system** that notifies the user in real time whenever their spending exceeds their set monthly budget — helping them adjust their habits before overspending becomes a problem.
 
@@ -100,8 +113,7 @@ A foundational course covering the mathematical concepts underpinning data scien
 
 🎯 Focused on a clean, intuitive user experience so that day-to-day expense logging feels effortless rather than like a chore.
 
-### Technologies Used:
-`Node.js` `React` `Supabase`
+**Technologies:** `Node.js` `React` `Supabase`
 
 </td>
 </tr>
@@ -109,12 +121,12 @@ A foundational course covering the mathematical concepts underpinning data scien
 <tr>
 <td>
 
-## ⚡ IOT Based ML Machine Failure Detection
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=B8860B&center=true&vCenter=true&width=320&lines=⚡+IoT+Failure+Detection&repeat=false" />
 
 </td>
 <td>
 
-⚡ Developed an intelligent IoT + Machine Learning system that predicts machine health and estimates Remaining Useful Life (RUL) using real-time sensor data such as temperature, vibration, and rotational speed — enabling predictive maintenance instead of reactive repairs.
+Developed an intelligent IoT + Machine Learning system that predicts machine health and estimates Remaining Useful Life (RUL) using real-time sensor data such as temperature, vibration, and rotational speed — enabling predictive maintenance instead of reactive repairs.
 
 🔧 Combined embedded hardware (ESP32-based sensor collection) with a trained ML model to detect early warning signs of mechanical failure before they escalate into costly breakdowns.
 
@@ -122,8 +134,7 @@ A foundational course covering the mathematical concepts underpinning data scien
 
 🏆 Selected as one of the featured case studies in the 6th Semester IoT Subject, recognized for its practical, real-world applicability.
 
-### Technologies Used:
-`ESP32` `Arduino IDE` `Python` `React` `Node.js` `Flask` `Scikit-learn` `Google Colab` `Kaggle` `Matplotlib`
+**Technologies:** `ESP32` `Arduino IDE` `Python` `React` `Node.js` `Flask` `Scikit-learn` `Google Colab` `Kaggle` `Matplotlib`
 
 🔗 [GitHub Repository](https://github.com/HariomAcharya17/Techno-Expand)
 
@@ -133,23 +144,20 @@ A foundational course covering the mathematical concepts underpinning data scien
 <tr>
 <td>
 
-## 🤖 Mira AI Assistant
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=5B7C99&center=true&vCenter=true&width=260&lines=🤖+Mira+AI&repeat=false" />
 
 </td>
 <td>
 
-🤖 Built an AI-powered personalized assistant capable of answering a wide range of questions by intelligently routing requests through multiple integrated APIs and handling responses in a natural, conversational way.
+Built an AI-powered personalized assistant capable of answering a wide range of questions by intelligently routing requests through multiple integrated APIs and handling responses in a natural, conversational way.
 
 ⚡ Designed with a modern, responsive user interface and a scalable backend architecture, ensuring the assistant remains fast and reliable even as usage grows.
 
 💬 Focused on making the interaction feel seamless — minimizing latency and making AI responses feel natural rather than robotic or delayed.
 
-### Technologies Used:
-`React` `Node.js` `TypeScript` `Tailwind CSS` `AI APIs`
+**Technologies:** `React` `Node.js` `TypeScript` `Tailwind CSS` `AI APIs`
 
-🔗 [GitHub Repository](https://github.com/HariomAcharya17/MIRA)
-
-🌐 [Live Demo](https://mira-aichatbot.vercel.app/)
+🔗 [GitHub Repository](https://github.com/HariomAcharya17/MIRA) &nbsp;·&nbsp; 🌐 [Live Demo](https://mira-aichatbot.vercel.app/)
 
 </td>
 </tr>
@@ -157,27 +165,24 @@ A foundational course covering the mathematical concepts underpinning data scien
 <tr>
 <td>
 
-## 🛡️ PhisGuard
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=C1666B&center=true&vCenter=true&width=260&lines=🛡️+PhisGuard&repeat=false" />
 
 </td>
 <td>
 
-🛡️ Developed a phishing URL detection platform capable of identifying malicious websites using a **multi-layer security approach**, combining threat intelligence, heuristic analysis, and machine learning for higher detection accuracy than any single method alone.
+Developed a phishing URL detection platform capable of identifying malicious websites using a **multi-layer security approach**, combining threat intelligence, heuristic analysis, and machine learning for higher detection accuracy than any single method alone.
 
-### Detection Layers:
-- **VirusTotal Blacklist** — cross-references URLs against a large, continuously updated threat database.
-- **Pattern Analysis** — flags suspicious structural patterns commonly seen in phishing URLs.
-- **Domain Intelligence** — evaluates domain age, reputation, and registration signals.
-- **Machine Learning Model (Random Forest)** — trained to classify URLs based on a combination of extracted features, catching threats that rule-based systems might miss.
+**Detection layers:**
+- **VirusTotal Blacklist** — cross-references URLs against a large, continuously updated threat database
+- **Pattern Analysis** — flags suspicious structural patterns commonly seen in phishing URLs
+- **Domain Intelligence** — evaluates domain age, reputation, and registration signals
+- **Machine Learning Model (Random Forest)** — trained to classify URLs based on extracted features, catching threats rule-based systems might miss
 
 🧠 The layered design means the system doesn't rely on any single point of failure — if one layer misses a threat, another is likely to catch it.
 
-### Technologies Used:
-`Next.js` `Python` `FastAPI` `Scikit-learn` `Google Colab` `Kaggle`
+**Technologies:** `Next.js` `Python` `FastAPI` `Scikit-learn` `Google Colab` `Kaggle`
 
-🔗 [GitHub Repository](https://github.com/HariomAcharya17/phishguard-api)
-
-🌐 [Live Demo](https://your-phish-guard.vercel.app/)
+🔗 [GitHub Repository](https://github.com/HariomAcharya17/phishguard-api) &nbsp;·&nbsp; 🌐 [Live Demo](https://your-phish-guard.vercel.app/)
 
 </td>
 </tr>
@@ -185,21 +190,20 @@ A foundational course covering the mathematical concepts underpinning data scien
 <tr>
 <td>
 
-## 🎯 Vox-Hire
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=7B6D8D&center=true&vCenter=true&width=260&lines=🎯+Vox-Hire&repeat=false" />
 
 </td>
 <td>
 
-🎯 Currently developing an AI-powered recruitment platform where an intelligent interviewer conducts realistic technical interviews, helping candidates prepare for interviews at their dream companies through practical, adaptive practice.
+Currently developing an AI-powered recruitment platform where an intelligent interviewer conducts realistic technical interviews, helping candidates prepare for interviews at their dream companies through practical, adaptive practice.
 
 ⚡ Focused on **real-time interview simulation**, where the AI dynamically adapts its questions and follow-ups based on the candidate's responses, rather than relying on a fixed script.
 
 🏗️ Being built with a scalable architecture from the ground up, anticipating future features like performance analytics, personalized feedback, and interview history tracking.
 
-### Technologies Used:
-`React` `Node.js` `FastAPI` `Tailwind CSS` `AI APIs`
+**Technologies:** `React` `Node.js` `FastAPI` `Tailwind CSS` `AI APIs`
 
-🚧 Currently In Development
+🚧 Currently in development
 
 </td>
 </tr>
@@ -208,54 +212,42 @@ A foundational course covering the mathematical concepts underpinning data scien
 
 ---
 
-# 📚 Languages & Tools
-
-A breakdown of the languages, frameworks, and platforms I regularly work with, grouped by the area of development they belong to:
-
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,javascript,typescript" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=500&lines=📚+Languages+%26+Tools&repeat=false" />
 </p>
 
-### 🌐 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+**Programming Languages**
+<p><img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,js,ts" /></p>
 
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
+**Frontend Development**
+<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /></p>
 
-### 🤖 AI / ML
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+**Backend Development**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /></p>
 
-### 🗄️ Database & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,aws" />
-</p>
+**AI / ML**
+<p><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" /></p>
 
-### 🌐 Networking
-<p>
-<img src="https://skillicons.dev/icons?i=nginx" />
-</p>
+**Database & Cloud**
+<p><img src="https://skillicons.dev/icons?i=supabase,postgres,aws" /></p>
+
+**Networking**
+<p><img src="https://skillicons.dev/icons?i=nginx" /></p>
 
 Fundamentals gained through hands-on internship exposure: **DNS resolution**, **network security practices**, **routing**, and **switching**.
 
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
-</p>
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" /></p>
 
 ---
 
-# 📊 GitHub Stats
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats&repeat=false" />
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HariomAcharya17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -264,9 +256,23 @@ Fundamentals gained through hands-on internship exposure: **DNS resolution**, **
 
 ---
 
-# 📦 Repository Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=🐍+Contribution+Snake&repeat=false" />
+</p>
 
-A live snapshot of each repository and the primary language it's built with, pulled directly from GitHub — this updates on its own as repos change, no manual editing needed.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output/github-contribution-grid-snake.svg" />
+    <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=500&lines=📦+Repository+Tech+Stack&repeat=false" />
+</p>
 
 <p align="center">
 <a href="https://github.com/HariomAcharya17/MIRA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariomAcharya17&repo=MIRA&theme=tokyonight&hide_border=true" /></a>
@@ -278,9 +284,11 @@ A live snapshot of each repository and the primary language it's built with, pul
 
 ---
 
-# 🌐 Connect With Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=🌐+Connect+With+Me&repeat=false" />
+</p>
 
-I'm always open to connecting with fellow developers, collaborating on interesting projects, or discussing opportunities in full-stack development, AI/ML, and cloud engineering. Feel free to reach out through any of the platforms below:
+I'm always open to connecting with fellow developers, collaborating on interesting projects, or discussing opportunities in full-stack development, AI/ML, and cloud engineering.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hariom-a-218649318/" target="_blank">
@@ -302,10 +310,9 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 
 ---
 
-> "Hard work always beats talent."
-> — Hariom Acharya
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=26&duration=2500&pause=100000&color=D97757&center=true&vCenter=true&width=500&lines=%22Hard+work+always+beats+talent.%22&repeat=false" />
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HariomAcharya17&label=Profile%20Views&color=0e75b6&style=flat" />
