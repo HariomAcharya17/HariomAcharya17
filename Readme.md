@@ -6,9 +6,84 @@
   <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=20&duration=2500&pause=100000&color=6B7280&center=true&vCenter=true&width=650&lines=Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps&repeat=false" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F6F6F&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Cloud+Engineering+Enthusiast;Building+Scalable+Web+Applications;System+Design+Learner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=D97757&center=true&vCenter=true&width=900&lines=Aspiring+Software+Engineer;AI%2FML+Developer;Cloud+Engineering+Enthusiast;Building+Scalable+Web+Applications;System+Design+Learner&repeat=true" width="600"/>
 </p>
+
+---
+
+<svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" style="margin: 2rem 0;">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#D97757;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#2F6F6F;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#5B7C99;stop-opacity:0.8" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Animated background circles -->
+  <circle cx="100" cy="80" r="40" fill="none" stroke="#D97757" stroke-width="2" opacity="0.3">
+    <animate attributeName="r" from="40" to="80" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.6" to="0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="650" cy="200" r="40" fill="none" stroke="#2F6F6F" stroke-width="2" opacity="0.3">
+    <animate attributeName="r" from="40" to="80" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.6" to="0" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle cx="400" cy="120" r="40" fill="none" stroke="#5B7C99" stroke-width="2" opacity="0.3">
+    <animate attributeName="r" from="40" to="80" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.6" to="0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Central node -->
+  <circle cx="400" cy="150" r="20" fill="url(#grad1)" filter="url(#glow)">
+    <animate attributeName="r" from="18" to="22" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Orbiting elements -->
+  <g id="orbit1">
+    <circle cx="400" cy="150" r="80" fill="none" stroke="url(#grad1)" stroke-width="1" opacity="0.2"/>
+    <circle cx="480" cy="150" r="8" fill="#D97757">
+      <animateMotion dur="6s" repeatCount="indefinite">
+        <mpath href="#orbit1"/>
+      </animateMotion>
+    </circle>
+  </g>
+  
+  <g id="orbit2">
+    <circle cx="400" cy="150" r="120" fill="none" stroke="url(#grad1)" stroke-width="1" opacity="0.15"/>
+    <circle cx="520" cy="150" r="6" fill="#2F6F6F">
+      <animateMotion dur="8s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1">
+        <mpath href="#orbit2"/>
+      </animateMotion>
+    </circle>
+  </g>
+  
+  <!-- Connecting lines -->
+  <line x1="400" y1="150" x2="480" y2="150" stroke="#D97757" stroke-width="1" opacity="0.4">
+    <animate attributeName="opacity" from="0.2" to="0.6" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <line x1="400" y1="150" x2="520" y2="150" stroke="#2F6F6F" stroke-width="1" opacity="0.3">
+    <animate attributeName="opacity" from="0.1" to="0.5" dur="3s" repeatCount="indefinite"/>
+  </line>
+  
+  <!-- Text overlay -->
+  <text x="400" y="270" text-anchor="middle" font-size="18" font-weight="bold" fill="#D97757" opacity="0.9">
+    Building Intelligent Systems
+  </text>
+</svg>
 
 ---
 
@@ -21,10 +96,6 @@ I am a passionate full-stack developer with a strong interest in building scalab
 My core interests lie in **Full-Stack Development, Artificial Intelligence, System Design, Cloud Engineering, and DevOps practices**. I'm especially drawn to projects where AI can be integrated meaningfully into real-world applications — not just as a feature, but as a way to genuinely solve problems through automation, intelligent prediction, and data-driven decision-making. Alongside this, I actively study distributed systems, backend scalability, and infrastructure design, since I believe a good developer needs to understand not just how to build something, but how to make it reliable and scalable as it grows.
 
 Beyond pure software development, I've also built a working understanding of **networking fundamentals** — including DNS resolution, network security practices, routing, and switching — which has given me a broader, more holistic view of how applications actually communicate and stay secure across real infrastructure, not just in theory.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW2xHVGvsSjm/giphy.gif" width="280" alt="playing guitar" />
-</p>
 
 **Currently, I am focused on:**
 - 🏗️ Building scalable full-stack applications with clean, maintainable architecture
@@ -165,7 +236,7 @@ Built an AI-powered personalized assistant capable of answering a wide range of 
 <tr>
 <td>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=C1666B&center=true&vCenter=true&width=260&lines=🛡️+PhisGuard&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=C1666B&center=true&vCenter=true&width=260&lines=🛡️+PhishGuard&repeat=false" />
 
 </td>
 <td>
@@ -225,9 +296,11 @@ Currently developing an AI-powered recruitment platform where an intelligent int
 **Backend Development**
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /></p>
 
-**AI / ML**
-<p><img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" /></p>
+**AI / ML & Data Science**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,sklearn,opencv,matlab" />
+</p>
 **Database & Cloud**
 <p><img src="https://skillicons.dev/icons?i=supabase,postgres,aws" /></p>
 
@@ -311,7 +384,7 @@ I'm always open to connecting with fellow developers, collaborating on interesti
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=26&duration=2500&pause=100000&color=D97757&center=true&vCenter=true&width=500&lines=%22Hard+work+always+beats+talent.%22&repeat=false" />
+  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=28&duration=3000&pause=100000&color=5B7C99&center=true&vCenter=true&width=600&lines=%22Hard+work+always+beats+talent.%22&repeat=false" />
 </p>
 
 <p align="center">
