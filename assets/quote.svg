@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="135" viewBox="0 0 900 135" role="img" aria-label="Push first. Ask forgiveness in the PR.">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4d6d"><animate attributeName="stop-color" values="#ff4d6d;#ff9f1c;#2ec4b6;#4361ee;#d946ef;#ff4d6d" dur="6s" repeatCount="indefinite" /></stop>
+      <stop offset="50%" stop-color="#2ec4b6"><animate attributeName="stop-color" values="#2ec4b6;#4361ee;#d946ef;#ff4d6d;#ff9f1c;#2ec4b6" dur="6s" repeatCount="indefinite" /></stop>
+      <stop offset="100%" stop-color="#d946ef"><animate attributeName="stop-color" values="#d946ef;#ff4d6d;#ff9f1c;#2ec4b6;#4361ee;#d946ef" dur="6s" repeatCount="indefinite" /></stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="135" rx="25" fill="#0f172a" />
+  <text x="450" y="83" text-anchor="middle" fill="url(#rainbow)" filter="url(#glow)" font-family="Dancing Script, Brush Script MT, cursive" font-size="46" font-weight="700">Push first. Ask forgiveness in the PR.</text>
+</svg>
