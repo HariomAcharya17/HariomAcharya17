@@ -127,9 +127,11 @@ Contributed to **EaseExpense**, a full-stack daily expense tracker. I built budg
   &nbsp;&nbsp;
   <a href="mailto:hariomacharya2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://hariom.acharya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" height="48" alt="Portfolio" /></a>
+  <a href="https://hariomacharya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" height="48" alt="Portfolio" /></a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HariomAcharya17&label=Profile%20Views&color=64748b&style=flat-square" alt="Profile views" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/assets/quote.svg" width="100%" alt="Push first. Ask forgiveness in the PR." />
 </p>
