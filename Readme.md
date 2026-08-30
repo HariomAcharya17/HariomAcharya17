@@ -159,126 +159,98 @@ A foundational course covering the mathematical concepts underpinning data scien
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=500&lines=🚀+Featured+Projects&repeat=false" />
+  <svg width="500" height="50" viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wgProj" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4A5568"><animate attributeName="stop-color" values="#4A5568;#2F6F6F;#5B7C99;#4A5568" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#2F6F6F"><animate attributeName="stop-color" values="#2F6F6F;#5B7C99;#4A5568;#2F6F6F" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#5B7C99"><animate attributeName="stop-color" values="#5B7C99;#4A5568;#2F6F6F;#5B7C99" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <path d="M0,31 Q125,23 250,31 T500,31 V50 H0 Z" fill="url(#wgProj)" opacity="0.16">
+    <animate attributeName="d" values="M0,31 Q125,23 250,31 T500,31 V50 H0 Z;M0,31 Q125,39 250,31 T500,31 V50 H0 Z;M0,31 Q125,23 250,31 T500,31 V50 H0 Z" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <text x="250" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="600" fill="#4A5568">🚀 Featured Projects</text>
+</svg>
 </p>
 
-<table>
+<table width="100%">
 <tr>
-<th width="25%">Project Title</th>
-<th width="75%">Key Achievement & Technologies</th>
-</tr>
+<td width="50%" valign="top" bgcolor="#EAF5F4" style="background-color:#EAF5F4; border-top:5px solid #2F6F6F; border-radius:12px; padding:20px;">
+<h3 align="center" style="color:#2F6F6F; margin-top:0;">💰 EaseExpense</h3>
 
-<tr>
-<td>
+A full-stack daily expense-tracking application built during my internship at **NST Pvt. Ltd.**, designed to make personal finance management simple, transparent, and proactive.
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=2F6F6F&center=true&vCenter=true&width=260&lines=💰+EaseExpense&repeat=false" />
+- 📧 **Automated Email Alerts:** Notifies users in real time whenever spending exceeds set budget limits.
+- 🧾 **Monthly Summary:** Automatically generates and emails receipt-style summaries.
+- 🎯 Focused on clean, effortless day-to-day logging.
 
-</td>
-<td>
-
-A full-stack daily expense-tracking application built during my internship at **NST Pvt. Ltd.**, designed to make personal finance management simple, transparent, and proactive rather than reactive.
-
-📧 Includes an **automated email alert system** that notifies the user in real time whenever their spending exceeds their set monthly budget — helping them adjust their habits before overspending becomes a problem.
-
-🧾 Automatically generates and emails a **monthly expense summary/receipt**, giving users a clear, consolidated view of everything they spent across the month in one place.
-
-🎯 Focused on a clean, intuitive user experience so that day-to-day expense logging feels effortless rather than like a chore.
+<br/>
 
 **Technologies:** `Node.js` `React` `Supabase`
-
 </td>
-</tr>
 
-<tr>
-<td>
+<td width="50%" valign="top" bgcolor="#FBF3E1" style="background-color:#FBF3E1; border-top:5px solid #B8860B; border-radius:12px; padding:20px;">
+<h3 align="center" style="color:#B8860B; margin-top:0;">⚡ IoT Failure Detection</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=B8860B&center=true&vCenter=true&width=320&lines=⚡+IoT+Failure+Detection&repeat=false" />
+Intelligent IoT + ML system that predicts machine health and estimates Remaining Useful Life (RUL) from real-time sensor data for predictive maintenance.
 
-</td>
-<td>
+- 🔧 Combines ESP32 sensor collection with ML model.
+- 📊 End-to-end data pipeline — collection, cleaning, training, visualization.
+- 🏆 Featured case study in 6th Sem IoT Subject.
 
-Developed an intelligent IoT + Machine Learning system that predicts machine health and estimates Remaining Useful Life (RUL) using real-time sensor data such as temperature, vibration, and rotational speed — enabling predictive maintenance instead of reactive repairs.
+<br/>
 
-🔧 Combined embedded hardware (ESP32-based sensor collection) with a trained ML model to detect early warning signs of mechanical failure before they escalate into costly breakdowns.
-
-📊 Involved end-to-end data handling — from raw sensor data collection and cleaning, through model training and evaluation, to visualizing predictions in an accessible way.
-
-🏆 Selected as one of the featured case studies in the 6th Semester IoT Subject, recognized for its practical, real-world applicability.
-
-**Technologies:** `ESP32` `Arduino IDE` `Python` `React` `Node.js` `Flask` `Scikit-learn` `Google Colab` `Kaggle` `Matplotlib`
-
+**Technologies:** `ESP32` `Python` `React` `Flask` `Scikit-learn`  
 🔗 [GitHub Repository](https://github.com/HariomAcharya17/Techno-Expand)
-
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%" valign="top" bgcolor="#EDF2F7" style="background-color:#EDF2F7; border-top:5px solid #5B7C99; border-radius:12px; padding:20px;">
+<h3 align="center" style="color:#5B7C99; margin-top:0;">🤖 Mira AI</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=5B7C99&center=true&vCenter=true&width=260&lines=🤖+Mira+AI&repeat=false" />
+Personalized AI assistant that answers wide-ranging questions by intelligently routing requests through multiple integrated APIs.
 
-</td>
-<td>
+- ⚡ Modern, responsive UI with scalable backend architecture.
+- 💬 Low-latency, natural-feeling interactions.
 
-Built an AI-powered personalized assistant capable of answering a wide range of questions by intelligently routing requests through multiple integrated APIs and handling responses in a natural, conversational way.
+<br/>
 
-⚡ Designed with a modern, responsive user interface and a scalable backend architecture, ensuring the assistant remains fast and reliable even as usage grows.
-
-💬 Focused on making the interaction feel seamless — minimizing latency and making AI responses feel natural rather than robotic or delayed.
-
-**Technologies:** `React` `Node.js` `TypeScript` `Tailwind CSS` `AI APIs`
-
+**Technologies:** `React` `Node.js` `TypeScript` `Tailwind CSS`  
 🔗 [GitHub Repository](https://github.com/HariomAcharya17/MIRA) &nbsp;·&nbsp; 🌐 [Live Demo](https://mira-aichatbot.vercel.app/)
-
 </td>
-</tr>
 
-<tr>
-<td>
+<td width="50%" valign="top" bgcolor="#FBEAEC" style="background-color:#FBEAEC; border-top:5px solid #C1666B; border-radius:12px; padding:20px;">
+<h3 align="center" style="color:#C1666B; margin-top:0;">🛡️ PhishGuard</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=C1666B&center=true&vCenter=true&width=260&lines=🛡️+PhishGuard&repeat=false" />
+Phishing URL detection platform using a multi-layer security approach combining threat intelligence, heuristic analysis, and ML.
 
-</td>
-<td>
+- 🧠 **Layers:** VirusTotal, Pattern Analysis, Domain Intelligence, and Random Forest ML.
+- 🔒 Multi-layered protection with no single point of failure.
 
-Developed a phishing URL detection platform capable of identifying malicious websites using a **multi-layer security approach**, combining threat intelligence, heuristic analysis, and machine learning for higher detection accuracy than any single method alone.
+<br/>
 
-**Detection layers:**
-- **VirusTotal Blacklist** — cross-references URLs against a large, continuously updated threat database
-- **Pattern Analysis** — flags suspicious structural patterns commonly seen in phishing URLs
-- **Domain Intelligence** — evaluates domain age, reputation, and registration signals
-- **Machine Learning Model (Random Forest)** — trained to classify URLs based on extracted features, catching threats rule-based systems might miss
-
-🧠 The layered design means the system doesn't rely on any single point of failure — if one layer misses a threat, another is likely to catch it.
-
-**Technologies:** `Next.js` `Python` `FastAPI` `Scikit-learn` `Google Colab` `Kaggle`
-
+**Technologies:** `Next.js` `Python` `FastAPI` `Scikit-learn`  
 🔗 [GitHub Repository](https://github.com/HariomAcharya17/phishguard-api) &nbsp;·&nbsp; 🌐 [Live Demo](https://your-phish-guard.vercel.app/)
-
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%" valign="top" bgcolor="#F1EEF6" style="background-color:#F1EEF6; border-top:5px solid #7B6D8D; border-radius:12px; padding:20px;" colspan="2">
+<h3 align="center" style="color:#7B6D8D; margin-top:0;">🎯 Vox-Hire</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&size=30&duration=2000&pause=100000&color=7B6D8D&center=true&vCenter=true&width=260&lines=🎯+Vox-Hire&repeat=false" />
+An AI-powered recruitment platform where an intelligent interviewer conducts realistic technical interviews with candidates.
 
-</td>
-<td>
+- ⚡ Real-time interview simulation — dynamic questions and follow-ups based on candidate responses.
+- 🏗️ Scalable architecture built for future analytics, feedback, and history tracking.
 
-Currently developing an AI-powered recruitment platform where an intelligent interviewer conducts realistic technical interviews, helping candidates prepare for interviews at their dream companies through practical, adaptive practice.
+<br/>
 
-⚡ Focused on **real-time interview simulation**, where the AI dynamically adapts its questions and follow-ups based on the candidate's responses, rather than relying on a fixed script.
-
-🏗️ Being built with a scalable architecture from the ground up, anticipating future features like performance analytics, personalized feedback, and interview history tracking.
-
-**Technologies:** `React` `Node.js` `FastAPI` `Tailwind CSS` `AI APIs`
-
-🚧 Currently in development
-
+**Technologies:** `React` `Node.js` `FastAPI` `Tailwind CSS` `AI APIs`  
+🚧 *Currently in development*
 </td>
 </tr>
-
 </table>
 
 ---
@@ -315,30 +287,23 @@ Fundamentals gained through hands-on internship exposure: **DNS resolution**, **
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats&repeat=false" />
+  <svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wg3d" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4A5568"><animate attributeName="stop-color" values="#4A5568;#2F6F6F;#5B7C99;#4A5568" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#2F6F6F"><animate attributeName="stop-color" values="#2F6F6F;#5B7C99;#4A5568;#2F6F6F" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#5B7C99"><animate attributeName="stop-color" values="#5B7C99;#4A5568;#2F6F6F;#5B7C99" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+  <path d="M0,31 Q100,23 200,31 T400,31 V50 H0 Z" fill="url(#wg3d)" opacity="0.16">
+    <animate attributeName="d" values="M0,31 Q100,23 200,31 T400,31 V50 H0 Z;M0,31 Q100,39 200,31 T400,31 V50 H0 Z;M0,31 Q100,23 200,31 T400,31 V50 H0 Z" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <text x="200" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="600" fill="#4A5568">🧊 3D Contribution Graph</text>
+</svg>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HariomAcharya17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomAcharya17&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=PT+Serif&size=26&duration=2500&pause=100000&color=4A5568&center=true&vCenter=true&width=400&lines=🐍+Contribution+Snake&repeat=false" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output/github-contribution-grid-snake.svg" />
-    <img alt="a snake eating my github contribution graph" src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
