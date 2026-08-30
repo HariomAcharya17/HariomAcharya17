@@ -106,10 +106,10 @@ Contributed to **EaseExpense**, a full-stack daily expense tracker. I built budg
   </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/3D%20Contribution%20Graph-d946ef?style=for-the-badge" alt="3D graph" />
+## <img src="https://img.shields.io/badge/Developer%20Universe-d946ef?style=for-the-badge" alt="Developer universe" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/assets/developer-orbit.svg" width="100%" alt="Animated developer orbit" />
 </p>
 
 ## <img src="https://img.shields.io/badge/GitHub%20Stats-38bdf8?style=for-the-badge" alt="GitHub stats" />
