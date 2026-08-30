@@ -90,7 +90,7 @@ Contributed to **EaseExpense**, a full-stack daily expense tracker. I built budg
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,matlab&perline=6" alt="Python TensorFlow PyTorch Scikit-learn OpenCV MATLAB" />
     </td>
     <td width="50%" valign="top" bgcolor="#FFF3D6">
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=76&text=Database%20%26%20Cloud&fontSize=23&fontAlignY=40&fontColor=ffffff&color=0:ea580c,100:ff9f1c" width="100%" alt="Database and cloud" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=76&text=Database%20and%20Cloud&fontSize=23&fontAlignY=40&fontColor=ffffff&color=0:ea580c,100:ff9f1c" width="100%" alt="Database and cloud" />
       <p>Data persistence and production deployment</p>
       <img src="https://skillicons.dev/icons?i=supabase,postgres,aws,docker&perline=4" alt="Supabase PostgreSQL AWS Docker" />
     </td>
@@ -102,7 +102,7 @@ Contributed to **EaseExpense**, a full-stack daily expense tracker. I built budg
       <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,js,ts&perline=7" alt="C C++ Java Python HTML JavaScript TypeScript" />
     </td>
     <td width="50%" valign="top" bgcolor="#E8EDF5">
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=76&text=Tools%20%26%20Platforms&fontSize=23&fontAlignY=40&fontColor=ffffff&color=0:334155,100:64748b" width="100%" alt="Tools and platforms" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=76&text=Tools%20and%20Platforms&fontSize=23&fontAlignY=40&fontColor=ffffff&color=0:334155,100:64748b" width="100%" alt="Tools and platforms" />
       <p>Version control, delivery, and development workflow</p>
       <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,nginx&perline=5" alt="Git GitHub Vercel VS Code Nginx" />
     </td>
