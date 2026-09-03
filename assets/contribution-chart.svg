@@ -1,69 +1,135 @@
-<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozZTJmNzZmMi1lYzZkLTQxODgtOTBiZi00NjJjNTliMWEwMzcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE2yzGQnD0IlsAJV4FHNfZIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiY2NkNDE4MS04MDhhLTRiNTgtYjU3OS05MzBhMWMzMjYzYTZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoE8TdZ2eZE23mGgnzxY0IiwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkRvCOxV5KmaASFQR+5vyTg79/DbgxJYKqN/E7kpiX6mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHe+jmMDYdA0w+2SFoRQzEsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDwflGQLfAn73PEqNibBlTIWI+lxdw4aWu5sGSva2O8s2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjNlMmY3NmYyLWVjNmQtNDE4OC05MGJmLTQ2MmM1OWIxYTAzNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmVjNTJiNDlkLTRjMTctNDEyZC1hNDNlLWVkNmZkOWE0OWVjOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCRG8I7FXkqZoBIVBH7m/JODv38NuDElgqo38TuSmJfqaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggem8kya7BNYm1pY5jdCcjWAmBmbJjLWyk5UoYXOWaqtyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFVmbUF68pQjGvVxdt0gbmt8O7EeUDVHtEUUaGN+j4E50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMTZ2me1vbSWlb37i5vMENChvFcWeCxtNUqSijl12EgnMsOVGxxsjv0LTWMS6P3Gw35GdZJKpFOny5TlI29P12Q=</c2pa:manifest></metadata>
+<svg viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <!-- Gradients for lines -->
+    <linearGradient id="grad2023" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:0.8" />
+    </linearGradient>
+    
+    <linearGradient id="grad2024" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#059669;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:0.8" />
+    </linearGradient>
+    
+    <linearGradient id="grad2025" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ea580c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:0.8" />
+    </linearGradient>
+    
+    <linearGradient id="grad2026" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:0.8" />
+    </linearGradient>
+
+    <!-- Filter for shadow effect -->
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.1"/>
     </filter>
   </defs>
 
-  <rect x="0" y="0" width="900" height="380" fill="#ffffff" />
+  <!-- Background -->
+  <rect width="1200" height="600" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
 
-  <text x="40" y="42" font-family="Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#1a1a1a">
-    Hariom's GitHub contribution growth
-  </text>
-  <text x="860" y="42" font-family="Fira Code, monospace" font-size="16" font-weight="600" fill="#1a1a1a" text-anchor="end">
-    1,504 total
-  </text>
+  <!-- Title -->
+  <text x="60" y="45" font-size="32" font-weight="bold" fill="#1f2937">Hariom's GitHub contribution growth</text>
 
-  <!-- gridlines -->
-  <line x1="70" y1="290" x2="860" y2="290" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="230" x2="860" y2="230" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="170" x2="860" y2="170" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="110" x2="860" y2="110" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="70"  x2="860" y2="70"  stroke="#eef0f3" stroke-width="1" />
-
-  <text x="55" y="294" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">0</text>
-  <text x="55" y="234" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">400</text>
-  <text x="55" y="174" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">800</text>
-  <text x="55" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">1.2K</text>
-  <text x="55" y="74"  font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">1.6K</text>
-
-  <!-- ===== 2023 segment — blue ===== -->
-  <path d="M 70,286 C 130,284 160,282 190,280" fill="none" stroke="#4285F4" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 70,286 C 130,284 160,282 190,280" fill="none" stroke="#4285F4" stroke-width="2.5" stroke-linecap="round" />
-
-  <!-- ===== 2024 segment — green ===== -->
-  <path d="M 190,280 C 230,278 260,272 335,258" fill="none" stroke="#34A853" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 190,280 C 230,278 260,272 335,258" fill="none" stroke="#34A853" stroke-width="2.5" stroke-linecap="round" />
-
-  <!-- ===== 2025 segment — orange/yellow ===== -->
-  <path d="M 335,258 C 390,220 430,192 460,168 C 500,138 540,124 595,116" fill="none" stroke="#FBBC05" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 335,258 C 390,220 430,192 460,168 C 500,138 540,124 595,116" fill="none" stroke="#FBBC05" stroke-width="2.5" stroke-linecap="round" />
-
-  <!-- ===== 2026 segment — red/purple ===== -->
-  <path d="M 595,116 C 650,104 700,90 750,68 C 790,52 820,44 860,38" fill="none" stroke="#EA4335" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 595,116 C 650,104 700,90 750,68 C 790,52 820,44 860,38" fill="none" stroke="#EA4335" stroke-width="2.5" stroke-linecap="round" />
-
-  <!-- segment boundary dots -->
-  <circle cx="190" cy="280" r="4" fill="#ffffff" stroke="#34A853" stroke-width="2.5" />
-  <circle cx="335" cy="258" r="4" fill="#ffffff" stroke="#FBBC05" stroke-width="2.5" />
-  <circle cx="595" cy="116" r="4" fill="#ffffff" stroke="#EA4335" stroke-width="2.5" />
-  <circle cx="860" cy="38"  r="5" fill="#ffffff" stroke="#EA4335" stroke-width="3" filter="url(#glow)" />
-
-  <!-- x axis labels -->
-  <text x="70"  y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2023</text>
-  <text x="335" y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2024</text>
-  <text x="595" y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2025</text>
-  <text x="860" y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2026</text>
-
-  <!-- legend -->
-  <g font-family="Segoe UI, sans-serif" font-size="12" fill="#6b7280">
-    <circle cx="640" cy="360" r="4" fill="#4285F4" /><text x="650" y="364">2023</text>
-    <circle cx="700" cy="360" r="4" fill="#34A853" /><text x="710" y="364">2024</text>
-    <circle cx="760" cy="360" r="4" fill="#FBBC05" /><text x="770" y="364">2025</text>
-    <circle cx="820" cy="360" r="4" fill="#EA4335" /><text x="830" y="364">2026</text>
+  <!-- Total contributions badge -->
+  <g filter="url(#shadow)">
+    <rect x="1020" y="15" width="140" height="50" fill="#fff5f5" stroke="#fca5a5" stroke-width="1.5" rx="8"/>
+    <text x="1090" y="40" font-size="20" font-weight="bold" fill="#dc2626" text-anchor="middle">1,504</text>
+    <text x="1090" y="56" font-size="12" fill="#991b1b" text-anchor="middle">total</text>
   </g>
+
+  <!-- Grid lines (horizontal) -->
+  <line x1="80" y1="500" x2="1150" y2="500" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="80" y1="400" x2="1150" y2="400" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="80" y1="300" x2="1150" y2="300" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="80" y1="200" x2="1150" y2="200" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="80" y1="100" x2="1150" y2="100" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="5,5"/>
+
+  <!-- Y-axis labels -->
+  <text x="65" y="510" font-size="13" fill="#6b7280" text-anchor="end">0</text>
+  <text x="65" y="410" font-size="13" fill="#6b7280" text-anchor="end">400</text>
+  <text x="65" y="310" font-size="13" fill="#6b7280" text-anchor="end">800</text>
+  <text x="65" y="210" font-size="13" fill="#6b7280" text-anchor="end">1.2K</text>
+  <text x="65" y="110" font-size="13" fill="#6b7280" text-anchor="end">1.6K</text>
+
+  <!-- Y-axis -->
+  <line x1="80" y1="100" x2="80" y2="500" stroke="#374151" stroke-width="2"/>
+
+  <!-- X-axis -->
+  <line x1="80" y1="500" x2="1150" y2="500" stroke="#374151" stroke-width="2"/>
+
+  <!-- 2023 Line (Blue) - Low contribution start -->
+  <polyline points="130,480 280,470 430,460 580,455 730,450 880,445 1030,440" 
+            stroke="url(#grad2023)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 2023 Data points -->
+  <circle cx="130" cy="480" r="6" fill="#2563eb" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="580" cy="455" r="6" fill="#2563eb" stroke="#ffffff" stroke-width="2"/>
+
+  <!-- 2024 Line (Green) - Growth begins -->
+  <polyline points="280,470 380,450 430,440 530,420 630,400 730,380 830,360 930,340 1030,320" 
+            stroke="url(#grad2024)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 2024 Data points -->
+  <circle cx="430" cy="440" r="6" fill="#059669" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="730" cy="380" r="6" fill="#059669" stroke="#ffffff" stroke-width="2"/>
+
+  <!-- 2025 Line (Orange) - Acceleration -->
+  <polyline points="430,440 530,360 630,280 730,220 830,160 930,120 1030,100" 
+            stroke="url(#grad2025)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 2025 Data points -->
+  <circle cx="730" cy="220" r="6" fill="#ea580c" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="1030" cy="100" r="6" fill="#ea580c" stroke="#ffffff" stroke-width="2"/>
+
+  <!-- 2026 Line (Red) - Rapid growth -->
+  <polyline points="730,220 830,150 930,90 1030,50 1080,30" 
+            stroke="url(#grad2026)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 2026 Data point with glow -->
+  <circle cx="1080" cy="30" r="8" fill="#dc2626" stroke="#fca5a5" stroke-width="3" opacity="0.6"/>
+  <circle cx="1080" cy="30" r="6" fill="#dc2626" stroke="#ffffff" stroke-width="2"/>
+
+  <!-- Year markers on X-axis -->
+  <text x="180" y="540" font-size="16" font-weight="600" fill="#374151" text-anchor="middle">2023</text>
+  <line x1="180" y1="500" x2="180" y2="510" stroke="#374151" stroke-width="2"/>
+
+  <text x="580" y="540" font-size="16" font-weight="600" fill="#374151" text-anchor="middle">2024</text>
+  <line x1="580" y1="500" x2="580" y2="510" stroke="#374151" stroke-width="2"/>
+
+  <text x="980" y="540" font-size="16" font-weight="600" fill="#374151" text-anchor="middle">2025</text>
+  <line x1="980" y1="500" x2="980" y2="510" stroke="#374151" stroke-width="2"/>
+
+  <text x="1080" y="540" font-size="16" font-weight="600" fill="#374151" text-anchor="middle">2026</text>
+  <line x1="1080" y1="500" x2="1080" y2="510" stroke="#374151" stroke-width="2"/>
+
+  <!-- Legend -->
+  <g>
+    <!-- 2023 -->
+    <circle cx="920" cy="565" r="5" fill="#2563eb"/>
+    <text x="935" y="570" font-size="13" fill="#374151">2023</text>
+
+    <!-- 2024 -->
+    <circle cx="1020" cy="565" r="5" fill="#059669"/>
+    <text x="1035" y="570" font-size="13" fill="#374151">2024</text>
+
+    <!-- 2025 -->
+    <circle cx="1110" cy="565" r="5" fill="#ea580c"/>
+    <text x="1125" y="570" font-size="13" fill="#374151">2025</text>
+
+    <!-- 2026 -->
+    <circle cx="1200" cy="565" r="5" fill="#dc2626"/>
+    <text x="1215" y="570" font-size="13" fill="#374151">2026</text>
+  </g>
+
+  <!-- Animation effect (optional - can be enhanced with CSS) -->
+  <style>
+    @keyframes pulse {
+      0% { r: 6; opacity: 1; }
+      50% { r: 8; opacity: 0.8; }
+      100% { r: 6; opacity: 1; }
+    }
+  </style>
 </svg>
