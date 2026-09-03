@@ -1,69 +1,352 @@
-<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozZTJmNzZmMi1lYzZkLTQxODgtOTBiZi00NjJjNTliMWEwMzcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaE2yzGQnD0IlsAJV4FHNfZIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiY2NkNDE4MS04MDhhLTRiNTgtYjU3OS05MzBhMWMzMjYzYTZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoE8TdZ2eZE23mGgnzxY0IiwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggkRvCOxV5KmaASFQR+5vyTg79/DbgxJYKqN/E7kpiX6mkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHe+jmMDYdA0w+2SFoRQzEsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDwflGQLfAn73PEqNibBlTIWI+lxdw4aWu5sGSva2O8s2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjNlMmY3NmYyLWVjNmQtNDE4OC05MGJmLTQ2MmM1OWIxYTAzNy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmVjNTJiNDlkLTRjMTctNDEyZC1hNDNlLWVkNmZkOWE0OWVjOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCRG8I7FXkqZoBIVBH7m/JODv38NuDElgqo38TuSmJfqaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggem8kya7BNYm1pY5jdCcjWAmBmbJjLWyk5UoYXOWaqtyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggFVmbUF68pQjGvVxdt0gbmt8O7EeUDVHtEUUaGN+j4E50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMTZ2me1vbSWlb37i5vMENChvFcWeCxtNUqSijl12EgnMsOVGxxsjv0LTWMS6P3Gw35GdZJKpFOny5TlI29P12Q=</c2pa:manifest></metadata>
-  <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hariom's GitHub Growth</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
-  <rect x="0" y="0" width="900" height="380" fill="#ffffff" />
+  :root{
+    --bg: #0b0e14;
+    --card: #11151c;
+    --card-border: #1e2530;
+    --text: #e6edf3;
+    --muted: #7d8590;
+    --marker: #f2cc60;
+    --grid: #1c2330;
+  }
 
-  <text x="40" y="42" font-family="Segoe UI, sans-serif" font-size="20" font-weight="700" fill="#1a1a1a">
-    Hariom's GitHub contribution growth
-  </text>
-  <text x="860" y="42" font-family="Fira Code, monospace" font-size="16" font-weight="600" fill="#1a1a1a" text-anchor="end">
-    1,504 total
-  </text>
+  *{ box-sizing: border-box; }
 
-  <!-- gridlines -->
-  <line x1="70" y1="290" x2="860" y2="290" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="230" x2="860" y2="230" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="170" x2="860" y2="170" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="110" x2="860" y2="110" stroke="#eef0f3" stroke-width="1" />
-  <line x1="70" y1="70"  x2="860" y2="70"  stroke="#eef0f3" stroke-width="1" />
+  body{
+    margin:0;
+    min-height:100vh;
+    background:
+      radial-gradient(circle at 15% 10%, rgba(88,166,255,0.06), transparent 40%),
+      radial-gradient(circle at 85% 85%, rgba(163,113,247,0.06), transparent 40%),
+      var(--bg);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding: 28px 16px;
+    font-family:'JetBrains Mono', monospace;
+    color:var(--text);
+  }
 
-  <text x="55" y="294" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">0</text>
-  <text x="55" y="234" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">400</text>
-  <text x="55" y="174" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">800</text>
-  <text x="55" y="114" font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">1.2K</text>
-  <text x="55" y="74"  font-family="Segoe UI, sans-serif" font-size="12" fill="#9aa1ab" text-anchor="end">1.6K</text>
+  .card{
+    width:100%;
+    max-width: 960px;
+    background:var(--card);
+    border:1px solid var(--card-border);
+    border-radius:14px;
+    overflow:hidden;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.45);
+  }
 
-  <!-- ===== 2023 segment — blue ===== -->
-  <path d="M 70,286 C 130,284 160,282 190,280" fill="none" stroke="#4285F4" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 70,286 C 130,284 160,282 190,280" fill="none" stroke="#4285F4" stroke-width="2.5" stroke-linecap="round" />
+  .titlebar{
+    display:flex;
+    align-items:center;
+    gap:7px;
+    padding:12px 16px;
+    border-bottom:1px solid var(--card-border);
+    background: linear-gradient(180deg, #12171f, #0f131a);
+  }
+  .dot{ width:11px; height:11px; border-radius:50%; }
+  .dot.r{ background:#ff5f57; }
+  .dot.y{ background:#febc2e; }
+  .dot.g{ background:#28c840; }
+  .titlebar span{
+    margin-left:10px;
+    color:var(--muted);
+    font-size:12px;
+    letter-spacing:0.3px;
+  }
 
-  <!-- ===== 2024 segment — green ===== -->
-  <path d="M 190,280 C 230,278 260,272 335,258" fill="none" stroke="#34A853" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 190,280 C 230,278 260,272 335,258" fill="none" stroke="#34A853" stroke-width="2.5" stroke-linecap="round" />
+  .body{ padding: 22px 26px 10px; }
 
-  <!-- ===== 2025 segment — orange/yellow ===== -->
-  <path d="M 335,258 C 390,220 430,192 460,168 C 500,138 540,124 595,116" fill="none" stroke="#FBBC05" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 335,258 C 390,220 430,192 460,168 C 500,138 540,124 595,116" fill="none" stroke="#FBBC05" stroke-width="2.5" stroke-linecap="round" />
+  .scrawl{
+    font-family:'Caveat', cursive;
+    color:var(--marker);
+    font-size: 30px;
+    line-height:1.25;
+    transform: rotate(-1deg);
+    margin: 2px 0 4px 2px;
+  }
 
-  <!-- ===== 2026 segment — red/purple ===== -->
-  <path d="M 595,116 C 650,104 700,90 750,68 C 790,52 820,44 860,38" fill="none" stroke="#EA4335" stroke-width="4" stroke-linecap="round" filter="url(#glow)" />
-  <path d="M 595,116 C 650,104 700,90 750,68 C 790,52 820,44 860,38" fill="none" stroke="#EA4335" stroke-width="2.5" stroke-linecap="round" />
+  .headrow{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-bottom: 14px;
+  }
+  .headrow h1{
+    font-size:15px;
+    font-weight:600;
+    margin:0;
+    color:var(--text);
+  }
+  .headrow .total{
+    font-size:14px;
+    color:var(--muted);
+  }
+  .headrow .total b{
+    color:var(--text);
+    font-size:18px;
+  }
 
-  <!-- segment boundary dots -->
-  <circle cx="190" cy="280" r="4" fill="#ffffff" stroke="#34A853" stroke-width="2.5" />
-  <circle cx="335" cy="258" r="4" fill="#ffffff" stroke="#FBBC05" stroke-width="2.5" />
-  <circle cx="595" cy="116" r="4" fill="#ffffff" stroke="#EA4335" stroke-width="2.5" />
-  <circle cx="860" cy="38"  r="5" fill="#ffffff" stroke="#EA4335" stroke-width="3" filter="url(#glow)" />
+  .chartwrap{ position:relative; }
+  svg{ width:100%; height:auto; display:block; }
 
-  <!-- x axis labels -->
-  <text x="70"  y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2023</text>
-  <text x="335" y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2024</text>
-  <text x="595" y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2025</text>
-  <text x="860" y="330" font-family="Segoe UI, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">2026</text>
+  .tick{ font-size:11px; fill:var(--muted); font-family:'JetBrains Mono', monospace; }
+  .gridline{ stroke:var(--grid); stroke-width:1; }
 
-  <!-- legend -->
-  <g font-family="Segoe UI, sans-serif" font-size="12" fill="#6b7280">
-    <circle cx="640" cy="360" r="4" fill="#4285F4" /><text x="650" y="364">2023</text>
-    <circle cx="700" cy="360" r="4" fill="#34A853" /><text x="710" y="364">2024</text>
-    <circle cx="760" cy="360" r="4" fill="#FBBC05" /><text x="770" y="364">2025</text>
-    <circle cx="820" cy="360" r="4" fill="#EA4335" /><text x="830" y="364">2026</text>
-  </g>
-</svg>
+  #tooltip{
+    position:absolute;
+    pointer-events:none;
+    background:#1a2029;
+    border:1px solid #2a3341;
+    border-radius:8px;
+    padding:9px 12px;
+    font-size:12px;
+    line-height:1.5;
+    color:var(--text);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    opacity:0;
+    transition: opacity 0.1s ease;
+    white-space:nowrap;
+    z-index:5;
+  }
+  #tooltip .d{ color:var(--muted); font-size:11px; }
+  #tooltip .n{ font-weight:600; }
+
+  .legend{
+    display:flex;
+    flex-wrap:wrap;
+    gap:14px;
+    padding: 4px 4px 20px;
+    font-size:11.5px;
+    color:var(--muted);
+  }
+  .legend .sw{
+    display:inline-flex;
+    align-items:center;
+    gap:6px;
+  }
+  .legend .sw i{
+    width:9px; height:9px; border-radius:50%;
+    display:inline-block;
+  }
+
+  .footer{
+    padding: 12px 26px 20px;
+    color: var(--muted);
+    font-size: 11.5px;
+    border-top: 1px solid var(--card-border);
+  }
+  .footer a{ color:#58a6ff; text-decoration:none; }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="titlebar">
+    <div class="dot r"></div><div class="dot y"></div><div class="dot g"></div>
+    <span>hariom@github ~ contributions</span>
+  </div>
+
+  <div class="body">
+    <div class="scrawl" id="scrawlText">loading a witty remark...</div>
+
+    <div class="headrow">
+      <h1>Real contribution growth · Jan 2025 &mdash; Sep 2026</h1>
+      <div class="total">total commits & activity &nbsp;<b id="totalNum">0</b></div>
+    </div>
+
+    <div class="chartwrap">
+      <svg id="chart" viewBox="0 0 980 380" xmlns="http://www.w3.org/2000/svg"></svg>
+      <div id="tooltip"></div>
+    </div>
+
+    <div class="legend" id="legend"></div>
+  </div>
+
+  <div class="footer">
+    Pulled from Hariom's live public GitHub contribution calendar (day-level, real data). Hover the line for exact date &amp; commit count.
+  </div>
+</div>
+
+<script>
+const RAW = {"2025-01-05":1,"2025-01-12":2,"2025-01-19":2,"2025-01-26":0,"2025-02-02":1,"2025-02-09":1,"2025-02-16":0,"2025-02-23":1,"2025-03-02":0,"2025-03-09":0,"2025-03-16":1,"2025-03-23":0,"2025-03-30":4,"2025-04-06":1,"2025-04-13":1,"2025-04-20":2,"2025-04-27":0,"2025-05-04":0,"2025-05-11":2,"2025-05-18":1,"2025-05-25":0,"2025-06-01":0,"2025-06-08":1,"2025-06-15":1,"2025-06-22":0,"2025-06-29":1,"2025-07-06":2,"2025-07-13":1,"2025-07-20":0,"2025-07-27":0,"2025-08-03":0,"2025-08-10":0,"2025-08-17":0,"2025-08-24":0,"2025-08-31":1,"2025-09-07":0,"2025-09-14":0,"2025-09-21":0,"2025-09-28":1,"2025-10-05":0,"2025-10-12":1,"2025-10-19":1,"2025-10-26":0,"2025-11-02":0,"2025-11-09":0,"2025-11-16":0,"2025-11-23":1,"2025-11-30":0,"2025-12-07":0,"2025-12-14":0,"2025-12-21":0,"2025-12-28":0,"2025-01-06":2,"2025-01-13":2,"2025-01-20":1,"2025-01-27":0,"2025-02-03":1,"2025-02-10":1,"2025-02-17":0,"2025-02-24":1,"2025-03-03":2,"2025-03-10":0,"2025-03-17":2,"2025-03-24":1,"2025-03-31":0,"2025-04-07":1,"2025-04-14":2,"2025-04-21":0,"2025-04-28":1,"2025-05-05":0,"2025-05-12":0,"2025-05-19":2,"2025-05-26":0,"2025-06-02":0,"2025-06-09":1,"2025-06-16":0,"2025-06-23":2,"2025-06-30":1,"2025-07-07":2,"2025-07-14":0,"2025-07-21":0,"2025-07-28":0,"2025-08-04":0,"2025-08-11":0,"2025-08-18":1,"2025-08-25":0,"2025-09-01":1,"2025-09-08":1,"2025-09-15":1,"2025-09-22":1,"2025-09-29":0,"2025-10-06":0,"2025-10-13":1,"2025-10-20":0,"2025-10-27":1,"2025-11-03":0,"2025-11-10":0,"2025-11-17":0,"2025-11-24":1,"2025-12-01":0,"2025-12-08":0,"2025-12-15":1,"2025-12-22":0,"2025-12-29":0,"2025-01-07":1,"2025-01-14":2,"2025-01-21":1,"2025-01-28":0,"2025-02-04":1,"2025-02-11":1,"2025-02-18":0,"2025-02-25":0,"2025-03-04":1,"2025-03-11":3,"2025-03-18":0,"2025-03-25":1,"2025-04-01":1,"2025-04-08":0,"2025-04-15":3,"2025-04-22":0,"2025-04-29":1,"2025-05-06":0,"2025-05-13":1,"2025-05-20":0,"2025-05-27":1,"2025-06-03":1,"2025-06-10":1,"2025-06-17":0,"2025-06-24":1,"2025-07-01":0,"2025-07-08":1,"2025-07-15":2,"2025-07-22":0,"2025-07-29":1,"2025-08-05":1,"2025-08-12":0,"2025-08-19":0,"2025-08-26":0,"2025-09-02":2,"2025-09-09":0,"2025-09-16":1,"2025-09-23":1,"2025-09-30":0,"2025-10-07":0,"2025-10-14":0,"2025-10-21":0,"2025-10-28":1,"2025-11-04":1,"2025-11-11":0,"2025-11-18":1,"2025-11-25":0,"2025-12-02":0,"2025-12-09":1,"2025-12-16":0,"2025-12-23":0,"2025-12-30":0,"2025-01-01":1,"2025-01-08":0,"2025-01-15":0,"2025-01-22":0,"2025-01-29":1,"2025-02-05":1,"2025-02-12":2,"2025-02-19":2,"2025-02-26":1,"2025-03-05":2,"2025-03-12":0,"2025-03-19":1,"2025-03-26":0,"2025-04-02":0,"2025-04-09":0,"2025-04-16":1,"2025-04-23":0,"2025-04-30":1,"2025-05-07":1,"2025-05-14":0,"2025-05-21":1,"2025-05-28":0,"2025-06-04":1,"2025-06-11":1,"2025-06-18":0,"2025-06-25":1,"2025-07-02":1,"2025-07-09":1,"2025-07-16":5,"2025-07-23":0,"2025-07-30":1,"2025-08-06":0,"2025-08-13":1,"2025-08-20":1,"2025-08-27":0,"2025-09-03":2,"2025-09-10":0,"2025-09-17":0,"2025-09-24":0,"2025-10-01":3,"2025-10-08":0,"2025-10-15":0,"2025-10-22":0,"2025-10-29":1,"2025-11-05":0,"2025-11-12":0,"2025-11-19":1,"2025-11-26":1,"2025-12-03":9,"2025-12-10":0,"2025-12-17":0,"2025-12-24":0,"2025-12-31":0,"2025-01-02":2,"2025-01-09":0,"2025-01-16":3,"2025-01-23":2,"2025-01-30":1,"2025-02-06":0,"2025-02-13":1,"2025-02-20":0,"2025-02-27":1,"2025-03-06":1,"2025-03-13":1,"2025-03-20":2,"2025-03-27":1,"2025-04-03":0,"2025-04-10":1,"2025-04-17":1,"2025-04-24":1,"2025-05-01":0,"2025-05-08":1,"2025-05-15":0,"2025-05-22":2,"2025-05-29":0,"2025-06-05":0,"2025-06-12":1,"2025-06-19":0,"2025-06-26":0,"2025-07-03":0,"2025-07-10":1,"2025-07-17":1,"2025-07-24":0,"2025-07-31":1,"2025-08-07":0,"2025-08-14":0,"2025-08-21":0,"2025-08-28":0,"2025-09-04":0,"2025-09-11":1,"2025-09-18":0,"2025-09-25":0,"2025-10-02":1,"2025-10-09":0,"2025-10-16":1,"2025-10-23":0,"2025-10-30":0,"2025-11-06":0,"2025-11-13":0,"2025-11-20":0,"2025-11-27":1,"2025-12-04":0,"2025-12-11":1,"2025-12-18":0,"2025-12-25":1,"2025-01-03":1,"2025-01-10":2,"2025-01-17":1,"2025-01-24":0,"2025-01-31":2,"2025-02-07":2,"2025-02-14":2,"2025-02-21":0,"2025-02-28":0,"2025-03-07":0,"2025-03-14":2,"2025-03-21":0,"2025-03-28":2,"2025-04-04":2,"2025-04-11":1,"2025-04-18":0,"2025-04-25":0,"2025-05-02":0,"2025-05-09":2,"2025-05-16":0,"2025-05-23":2,"2025-05-30":1,"2025-06-06":1,"2025-06-13":2,"2025-06-20":3,"2025-06-27":1,"2025-07-04":1,"2025-07-11":0,"2025-07-18":1,"2025-07-25":0,"2025-08-01":1,"2025-08-08":0,"2025-08-15":0,"2025-08-22":1,"2025-08-29":1,"2025-09-05":0,"2025-09-12":1,"2025-09-19":0,"2025-09-26":0,"2025-10-03":1,"2025-10-10":0,"2025-10-17":0,"2025-10-24":0,"2025-10-31":0,"2025-11-07":1,"2025-11-14":1,"2025-11-21":0,"2025-11-28":1,"2025-12-05":0,"2025-12-12":1,"2025-12-19":0,"2025-12-26":0,"2025-01-04":2,"2025-01-11":0,"2025-01-18":3,"2025-01-25":1,"2025-02-01":2,"2025-02-08":2,"2025-02-15":2,"2025-02-22":1,"2025-03-01":1,"2025-03-08":1,"2025-03-15":0,"2025-03-22":0,"2025-03-29":1,"2025-04-05":0,"2025-04-12":1,"2025-04-19":0,"2025-04-26":2,"2025-05-03":1,"2025-05-10":1,"2025-05-17":0,"2025-05-24":1,"2025-05-31":1,"2025-06-07":1,"2025-06-14":0,"2025-06-21":2,"2025-06-28":1,"2025-07-05":2,"2025-07-12":1,"2025-07-19":1,"2025-07-26":0,"2025-08-02":0,"2025-08-09":1,"2025-08-16":1,"2025-08-23":0,"2025-08-30":0,"2025-09-06":1,"2025-09-13":0,"2025-09-20":1,"2025-09-27":1,"2025-10-04":1,"2025-10-11":1,"2025-10-18":0,"2025-10-25":1,"2025-11-01":0,"2025-11-08":1,"2025-11-15":0,"2025-11-22":0,"2025-11-29":1,"2025-12-06":0,"2025-12-13":1,"2025-12-20":0,"2025-12-27":0,"2026-01-04":0,"2026-01-11":0,"2026-01-18":0,"2026-01-25":0,"2026-02-01":0,"2026-02-08":0,"2026-02-15":0,"2026-02-22":0,"2026-03-01":0,"2026-03-08":0,"2026-03-15":1,"2026-03-22":3,"2026-03-29":0,"2026-04-05":0,"2026-04-12":1,"2026-04-19":0,"2026-04-26":0,"2026-05-03":0,"2026-05-10":6,"2026-05-17":0,"2026-05-24":0,"2026-05-31":5,"2026-06-07":0,"2026-06-14":0,"2026-06-21":0,"2026-06-28":0,"2026-07-05":1,"2026-07-12":0,"2026-07-19":1,"2026-07-26":3,"2026-08-02":0,"2026-08-09":1,"2026-08-16":3,"2026-08-23":18,"2026-08-30":24,"2026-01-05":0,"2026-01-12":0,"2026-01-19":0,"2026-01-26":0,"2026-02-02":0,"2026-02-09":0,"2026-02-16":0,"2026-02-23":0,"2026-03-02":0,"2026-03-09":0,"2026-03-16":0,"2026-03-23":0,"2026-03-30":0,"2026-04-06":0,"2026-04-13":0,"2026-04-20":0,"2026-04-27":0,"2026-05-04":0,"2026-05-11":6,"2026-05-18":0,"2026-05-25":0,"2026-06-01":0,"2026-06-08":0,"2026-06-15":1,"2026-06-22":0,"2026-06-29":1,"2026-07-06":2,"2026-07-13":0,"2026-07-20":1,"2026-07-27":0,"2026-08-03":0,"2026-08-10":0,"2026-08-17":3,"2026-08-24":0,"2026-08-31":1,"2026-01-06":0,"2026-01-13":0,"2026-01-20":0,"2026-01-27":0,"2026-02-03":0,"2026-02-10":0,"2026-02-17":0,"2026-02-24":0,"2026-03-03":0,"2026-03-10":0,"2026-03-17":0,"2026-03-24":2,"2026-03-31":0,"2026-04-07":0,"2026-04-14":0,"2026-04-21":0,"2026-04-28":0,"2026-05-05":3,"2026-05-12":6,"2026-05-19":0,"2026-05-26":0,"2026-06-02":0,"2026-06-09":0,"2026-06-16":0,"2026-06-23":0,"2026-06-30":0,"2026-07-07":4,"2026-07-14":0,"2026-07-21":3,"2026-07-28":8,"2026-08-04":4,"2026-08-11":3,"2026-08-18":0,"2026-08-25":3,"2026-09-01":0,"2026-01-07":0,"2026-01-14":0,"2026-01-21":0,"2026-01-28":0,"2026-02-04":0,"2026-02-11":0,"2026-02-18":0,"2026-02-25":0,"2026-03-04":0,"2026-03-11":0,"2026-03-18":0,"2026-03-25":2,"2026-04-01":0,"2026-04-08":0,"2026-04-15":0,"2026-04-22":0,"2026-04-29":5,"2026-05-06":4,"2026-05-13":0,"2026-05-20":1,"2026-05-27":0,"2026-06-03":0,"2026-06-10":0,"2026-06-17":0,"2026-06-24":0,"2026-07-01":0,"2026-07-08":1,"2026-07-15":0,"2026-07-22":1,"2026-07-29":0,"2026-08-05":0,"2026-08-12":3,"2026-08-19":1,"2026-08-26":0,"2026-09-02":4,"2026-01-01":0,"2026-01-08":0,"2026-01-15":0,"2026-01-22":0,"2026-01-29":0,"2026-02-05":2,"2026-02-12":0,"2026-02-19":0,"2026-02-26":0,"2026-03-05":0,"2026-03-12":7,"2026-03-19":2,"2026-03-26":0,"2026-04-02":0,"2026-04-09":0,"2026-04-16":0,"2026-04-23":0,"2026-04-30":0,"2026-05-07":13,"2026-05-14":0,"2026-05-21":0,"2026-05-28":0,"2026-06-04":0,"2026-06-11":0,"2026-06-18":1,"2026-06-25":0,"2026-07-02":1,"2026-07-09":0,"2026-07-16":0,"2026-07-23":1,"2026-07-30":1,"2026-08-06":0,"2026-08-13":1,"2026-08-20":1,"2026-08-27":0,"2026-09-03":34,"2026-01-02":0,"2026-01-09":0,"2026-01-16":0,"2026-01-23":0,"2026-01-30":0,"2026-02-06":1,"2026-02-13":0,"2026-02-20":0,"2026-02-27":0,"2026-03-06":0,"2026-03-13":0,"2026-03-20":0,"2026-03-27":0,"2026-04-03":0,"2026-04-10":0,"2026-04-17":0,"2026-04-24":0,"2026-05-01":2,"2026-05-08":24,"2026-05-15":0,"2026-05-22":0,"2026-05-29":0,"2026-06-05":0,"2026-06-12":0,"2026-06-19":0,"2026-06-26":0,"2026-07-03":8,"2026-07-10":1,"2026-07-17":1,"2026-07-24":1,"2026-07-31":0,"2026-08-07":0,"2026-08-14":1,"2026-08-21":0,"2026-08-28":0,"2026-01-03":0,"2026-01-10":0,"2026-01-17":0,"2026-01-24":0,"2026-01-31":0,"2026-02-07":0,"2026-02-14":0,"2026-02-21":0,"2026-02-28":0,"2026-03-07":0,"2026-03-14":0,"2026-03-21":4,"2026-03-28":0,"2026-04-04":0,"2026-04-11":0,"2026-04-18":0,"2026-04-25":0,"2026-05-02":0,"2026-05-09":0,"2026-05-16":0,"2026-05-23":0,"2026-05-30":0,"2026-06-06":0,"2026-06-13":0,"2026-06-20":0,"2026-06-27":0,"2026-07-04":0,"2026-07-11":0,"2026-07-18":1,"2026-07-25":0,"2026-08-01":0,"2026-08-08":0,"2026-08-15":0,"2026-08-22":0,"2026-08-29":0};
+
+const dates = Object.keys(RAW).sort();
+let cum = 0;
+const points = dates.map(d => {
+  cum += RAW[d];
+  return { date: d, day: RAW[d], cum };
+});
+const total = cum;
+
+const PALETTE = ['#58a6ff','#3fb950','#f778ba','#d29922','#a371f7','#39c5cf','#f85149','#56d4dd'];
+
+const scrawls = [
+  "505 commits deep and still says \"just one more fix\"",
+  "August & May 2026: the two months Hariom forgot sleep exists",
+  "proof that 'I'll commit tomorrow' was a lie, in the best way",
+  "green squares: hariom's actual love language"
+];
+document.getElementById('scrawlText').textContent = scrawls[Math.floor(Math.random()*scrawls.length)];
+document.getElementById('totalNum').textContent = total.toLocaleString();
+
+// ---- layout ----
+const W = 980, H = 380;
+const padL = 54, padR = 26, padT = 24, padB = 46;
+const plotW = W - padL - padR;
+const plotH = H - padT - padB;
+const n = points.length;
+const yMax = Math.ceil(total / 100) * 100 + 50;
+
+function x(i){ return padL + (plotW * i/(n-1)); }
+function y(v){ return padT + plotH - (plotH * v/yMax); }
+
+const svg = document.getElementById('chart');
+const NS = 'http://www.w3.org/2000/svg';
+
+function el(tag, attrs){
+  const e = document.createElementNS(NS, tag);
+  for(const k in attrs) e.setAttribute(k, attrs[k]);
+  return e;
+}
+
+// gridlines + y labels
+const steps = 5;
+for(let s=0; s<=steps; s++){
+  const v = (yMax/steps)*s;
+  const gy = y(v);
+  svg.appendChild(el('line', {x1:padL, y1:gy, x2:W-padR, y2:gy, class:'gridline'}));
+  const t = el('text', {x:padL-10, y:gy+4, class:'tick', 'text-anchor':'end'});
+  t.textContent = Math.round(v);
+  svg.appendChild(t);
+}
+
+// month boundaries -> colored segments
+let segStart = 0;
+let curMonth = points[0].date.slice(0,7);
+let colorIdx = 0;
+const segments = [];
+for(let i=1;i<=n;i++){
+  const m = i<n ? points[i].date.slice(0,7) : null;
+  if(m !== curMonth){
+    segments.push({from:segStart, to:i-1, color: PALETTE[colorIdx % PALETTE.length], month: curMonth});
+    colorIdx++;
+    segStart = i-1;
+    curMonth = m;
+  }
+}
+
+const monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+segments.forEach(seg => {
+  let d = '';
+  for(let i=seg.from; i<=seg.to; i++){
+    const cmd = i===seg.from ? 'M' : 'L';
+    d += `${cmd} ${x(i).toFixed(1)},${y(points[i].cum).toFixed(1)} `;
+  }
+  const glow = el('path', {d, fill:'none', stroke:seg.color, 'stroke-width':4, 'stroke-linecap':'round', opacity:0.35, filter:'blur(3px)'});
+  const line = el('path', {d, fill:'none', stroke:seg.color, 'stroke-width':2.4, 'stroke-linecap':'round'});
+  svg.appendChild(glow);
+  svg.appendChild(line);
+});
+
+// end dot
+const last = points[n-1];
+svg.appendChild(el('circle', {cx:x(n-1), cy:y(last.cum), r:5, fill:'#0b0e14', stroke: segments[segments.length-1].color, 'stroke-width':3}));
+
+// x labels: first of each quarter-ish
+const labelIdx = [];
+let lastMonthShown = '';
+points.forEach((p,i) => {
+  const m = p.date.slice(0,7);
+  if(m !== lastMonthShown && (i===0 || i % 1 === 0)){
+    lastMonthShown = m;
+  }
+});
+[0, Math.floor(n*0.25), Math.floor(n*0.5), Math.floor(n*0.75), n-1].forEach(i => {
+  const p = points[i];
+  const [yr, mo] = p.date.split('-');
+  const t = el('text', {x:x(i), y:H-14, class:'tick', 'text-anchor':'middle'});
+  t.textContent = `${monthNames[parseInt(mo)-1]} ${yr}`;
+  svg.appendChild(t);
+});
+
+// hover layer
+const hoverDot = el('circle', {r:5, fill:'#fff', stroke:'#0b0e14', 'stroke-width':2, opacity:0});
+svg.appendChild(hoverDot);
+const hoverLine = el('line', {y1:padT, y2:H-padB, stroke:'#8b949e', 'stroke-width':1, 'stroke-dasharray':'3,3', opacity:0});
+svg.insertBefore(hoverLine, hoverDot);
+
+const hitRect = el('rect', {x:padL, y:padT, width:plotW, height:plotH, fill:'transparent'});
+svg.appendChild(hitRect);
+
+const tooltip = document.getElementById('tooltip');
+
+function fmtDate(iso){
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', {weekday:'short', month:'short', day:'numeric', year:'numeric'});
+}
+
+function nearestIndex(px){
+  const ratio = (px - padL) / plotW;
+  let i = Math.round(ratio * (n-1));
+  return Math.max(0, Math.min(n-1, i));
+}
+
+svg.addEventListener('mousemove', (e) => {
+  const rect = svg.getBoundingClientRect();
+  const scaleX = W / rect.width;
+  const px = (e.clientX - rect.left) * scaleX;
+  const i = nearestIndex(px);
+  const p = points[i];
+
+  hoverDot.setAttribute('cx', x(i));
+  hoverDot.setAttribute('cy', y(p.cum));
+  hoverDot.setAttribute('opacity', 1);
+  hoverLine.setAttribute('x1', x(i));
+  hoverLine.setAttribute('x2', x(i));
+  hoverLine.setAttribute('opacity', 1);
+
+  const wrapRect = svg.parentElement.getBoundingClientRect();
+  const tx = ((x(i)/W) * wrapRect.width);
+  const ty = ((y(p.cum)/H) * wrapRect.height);
+
+  tooltip.innerHTML = `<div class="d">${fmtDate(p.date)}</div>
+    <div class="n">${p.day} contribution${p.day===1?'':'s'} that day</div>
+    <div class="d">cumulative: ${p.cum.toLocaleString()}</div>`;
+  tooltip.style.left = Math.min(wrapRect.width - 160, Math.max(4, tx + 12)) + 'px';
+  tooltip.style.top = Math.max(4, ty - 54) + 'px';
+  tooltip.style.opacity = 1;
+});
+
+svg.addEventListener('mouseleave', () => {
+  hoverDot.setAttribute('opacity', 0);
+  hoverLine.setAttribute('opacity', 0);
+  tooltip.style.opacity = 0;
+});
+
+// legend
+const legend = document.getElementById('legend');
+const seen = new Set();
+segments.forEach(seg => {
+  if(seen.has(seg.month)) return;
+  seen.add(seg.month);
+  const [yr, mo] = seg.month.split('-');
+  const sw = document.createElement('span');
+  sw.className = 'sw';
+  sw.innerHTML = `<i style="background:${seg.color}"></i>${monthNames[parseInt(mo)-1]} '${yr.slice(2)}`;
+  legend.appendChild(sw);
+});
+</script>
+
+</body>
+</html>
