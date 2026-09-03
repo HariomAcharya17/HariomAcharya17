@@ -132,15 +132,7 @@ My work included building budget-focused features such as automated spending-lim
   <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:34A853,25:4285F4,50:8E44AD,75:EA4335,100:FBBC05" width="100%" />
 </p>
 
-## <img src="https://img.shields.io/badge/GitHub%20Stats-4285F4?style=for-the-badge" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:FBBC05,25:EA4335,50:8E44AD,75:4285F4,100:34A853" width="100%" />
-</p>
 
 ## <img src="https://img.shields.io/badge/Let%27s%20Connect-34A853?style=for-the-badge" />
 
