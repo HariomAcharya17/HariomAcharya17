@@ -2,6 +2,7 @@ name: Update README stats
 
 on:
   schedule:
+    # Runs once a day at 03:00 UTC
     - cron: '0 3 * * *'
   workflow_dispatch: {}
   push:
@@ -9,6 +10,12 @@ on:
 
 permissions:
   contents: write
+
+# Prevent two runs (e.g. schedule + manual trigger) from racing to push
+# at the same time, which is what caused the non-fast-forward push failure.
+concurrency:
+  group: update-readme-stats
+  cancel-in-progress: false
 
 jobs:
   update-stats:
@@ -24,9 +31,16 @@ jobs:
 
       - name: Generate activity graph + repo counters
         env:
+          # PAT with 'repo' + 'read:user' scopes, stored as a repo secret.
+          # A PAT is required (not the default GITHUB_TOKEN) because the
+          # private repo count and contribution history are only visible
+          # to a token that belongs to the account itself.
           GH_PAT: ${{ secrets.STATS_PAT }}
           GH_USERNAME: HariomAcharya17
         run: node scripts/generate-stats.mjs
+
+      - name: Pull latest changes before committing
+        run: git pull --rebase origin main
 
       - name: Commit updated stats files
         uses: stefanzweifel/git-auto-commit-action@v5
