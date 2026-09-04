@@ -145,9 +145,7 @@ My work included building budget-focused features such as automated spending-lim
   &nbsp;&nbsp;
   <a href="https://hariomacharya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-64748b?style=for-the-badge&logo=vercel&logoColor=white" height="48" /></a>
 </p>
- <img src="https://img.shields.io/badge/GitHub%20Stats-4285F4?style=for-the-badge" />
-
-
+<img width="100%" src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/stats/activity-graph-daily.svg" />
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HariomAcharya17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=FFD700&text_color=e0e0e0" />
