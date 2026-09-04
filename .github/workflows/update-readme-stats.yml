@@ -1,0 +1,35 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate activity graph + repo counters
+        env:
+          GH_PAT: ${{ secrets.STATS_PAT }}
+          GH_USERNAME: HariomAcharya17
+        run: node scripts/generate-stats.mjs
+
+      - name: Commit updated stats files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update README stats [skip ci]"
+          file_pattern: "stats/*.svg stats/*.json"
