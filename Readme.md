@@ -151,7 +151,6 @@ My work included building budget-focused features such as automated spending-lim
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HariomAcharya17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=FFD700&text_color=e0e0e0" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true&background=0F172A&ring=FFD700&fire=FF8C42&currStreakNum=e0e0e0" />
 </p>
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomAcharya17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=FFD700&text_color=e0e0e0" />
 </p>
