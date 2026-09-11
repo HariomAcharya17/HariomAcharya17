@@ -158,4 +158,4 @@ My work included building budget-focused features such as automated spending-lim
   <img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/assets/quote.svg" width="100%" alt="Push first. Ask forgiveness in the PR." />
 </p>
 <p align="center">Most of my work lives in private repositories — these public ones are just a glimpse ✨</p>
-<p align ="center">THANK YOU FOR VISTING</p>
+<p align ="center">THANK YOU FOR VISITING</p>
