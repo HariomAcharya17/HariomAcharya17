@@ -143,10 +143,10 @@ My work included building budget-focused features such as automated spending-lim
   &nbsp;&nbsp;
   <a href="mailto:hariomacharya2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
   &nbsp;&nbsp;
- <p align="center">
+<p align="center">
   <img
     width="49%"
-    src="https://streak-stats.demolab.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true&background=0F172A&ring=FFD700&fire=FF8C42&currStreakNum=e0e0e0"
+    src="https://streak-stats.demolab.com/?user=HariomAcharya17&theme=tokyonight&hide_border=true&background=0F172A&ring=FFD700&fire=FF8C42&currStreakNum=e0e0e0&v=20260911"
     alt="HariomAcharya17's GitHub streak"
   />
 </p>
