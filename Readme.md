@@ -30,6 +30,10 @@ At **NST Pvt. Ltd.**, I contributed to **EaseExpense**, a full-stack daily expen
 My work included building budget-focused features such as automated spending-limit alerts and monthly receipt-style summary emails. I also collaborated on debugging, testing, and refining the application in a real product-development environment. The internship strengthened both my development skills and my understanding of networking fundamentals including DNS, routing, switching, and network security.
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1&pause=100000&color=B794F6&center=true&vCenter=true&width=650&lines=%F0%9F%93%8C+Demo+down%3F+API+or+Supabase+likely+paused" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=0:8E44AD,25:4285F4,50:34A853,75:FBBC05,100:EA4335" width="100%" />
 </p>
 
