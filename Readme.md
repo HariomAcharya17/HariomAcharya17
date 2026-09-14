@@ -151,6 +151,9 @@ My work included building budget-focused features such as automated spending-lim
   />
 </p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/HariomAcharya17/HariomAcharya17/main/metrics.isocalendar.svg" width="100%" alt="Isometric contribution calendar" />
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=HariomAcharya17&label=Profile%20Views&color=64748b&style=flat-square" alt="Profile views" />
 </p>
 
