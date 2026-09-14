@@ -1,0 +1,26 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #f3e8ff;
+              --color-calendar-graph-day-L1-bg: #d8b4fe;
+              --color-calendar-graph-day-L2-bg: #c084fc;
+              --color-calendar-graph-day-L3-bg: #a855f7;
+              --color-calendar-graph-day-L4-bg: #7e22ce;
+            }
