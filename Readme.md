@@ -63,7 +63,7 @@ My work included building budget-focused features such as automated spending-lim
 <p>A personalized AI assistant that routes user questions through multiple integrated APIs to provide helpful, natural, and responsive conversations.</p>
 <p>• Modern responsive interface with a scalable backend structure<br>• Designed for low-latency, natural-feeling interactions</p>
 <p><b>Stack:</b> React · Node.js · TypeScript · Tailwind CSS</p>
-<p><a href="https://github.com/HariomAcharya17/MIRA">Repository →</a> · <a href="https://mira-aichatbot.vercel.app/">Live Demo →</a></p>
+<p><a href="https://github.com/HariomAcharya17/MIRA">Repository →</a> · <a href="mira-aichatbot.vercel.app/">Live Demo →</a></p>
 </td>
 
 <td width="50%" valign="top" bgcolor="#FFE8F2">
